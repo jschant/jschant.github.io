@@ -1,9 +1,14 @@
 - name: Jonghye Woo
-  photo: woo.jpg
+  photo: woo_new.jpg
   info: Associate professor, Harvard Medical School
   email: jwoo@mgh.harvard.edu
-  number_educ: 0
-  
+  number_educ: 5
+  education1: Postdoc, Cedars-Sinai Medical Center, University of Maryland, and Johns Hopkins University, USA
+  education2: PhD, EE, University of Southern California, LA, USA
+  education3: MS, EE, University of Southern California, LA, USA
+  education4: BS, EE, Seoul National University, LA, USA
+
+
 - name: Jiasen Niu
   photo: Jiasen.png
   info: Postdoc, started Oct 2020
