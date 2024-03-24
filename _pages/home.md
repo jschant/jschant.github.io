@@ -30,7 +30,7 @@ We find ourselves at a unique crossroads, driven by the potential to revolutioni
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Slider/multimodal_deep_learning.png" alt="Slide 3" />
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Slider/SaphireSTM2.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Slider/module.png" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
