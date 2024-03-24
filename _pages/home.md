@@ -52,6 +52,6 @@ We are grateful for funding from NIH and industry partners.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hms.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mgh_logo.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mgh_logo.png" style="width: 220px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gcmi.png" style="width: 120px">
 </figure>
