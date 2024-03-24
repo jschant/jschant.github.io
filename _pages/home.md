@@ -58,7 +58,7 @@ We are a dynamic research group, located at Massachusetts General Hospital and H
 
 We are grateful for funding from NIH and industry partners.
 
- **We are  looking for passionate new Postdocs, PhD students, or Master students to join the team** 
+ **We are  looking for passionate new Postdocs, PhD students, or Master students to join the team!** Please email Prof. Jonghye Woo at jwoo@mgh.harvard.edu.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
