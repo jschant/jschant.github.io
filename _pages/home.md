@@ -49,8 +49,7 @@ We are grateful for funding from NIH and industry partners.
  **We are  looking for passionate new Postdocs, PhD students, or Master students to join the team!** Please email Prof. Jonghye Woo at jwoo@mgh.harvard.edu.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hms.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mgh_logo.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gcmi.png" style="width: 120px">
 </figure>
