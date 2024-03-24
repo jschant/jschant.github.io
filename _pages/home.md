@@ -22,15 +22,15 @@ We find ourselves at a unique crossroads, driven by the potential to revolutioni
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Slider/cover.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Slider/motion_correction.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Slider/multimodal_deep_learning.png" alt="Slide 3" />
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Slider/SaphireSTM2.jpg" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -48,7 +48,7 @@ We are a dynamic research group, located at Massachusetts General Hospital and H
 
 We are grateful for funding from NIH and industry partners.
 
- **We are  looking for passionate new Postdocs, PhD students, or Master students to join the team!** Please email Prof. Jonghye Woo at jwoo@mgh.harvard.edu.
+**We are  looking for passionate new Postdocs, PhD students, or Master students to join the team!** 
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hms.png" style="width: 210px">
