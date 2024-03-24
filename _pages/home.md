@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-During the next two years, we will build up a "Lehrstuhl" (chair) at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
-More details to follow.
+In the ever-evolving landscape of healthcare and technology, our endeavor is not merely to traverse the burgeoning chasm that traditionally separates the domains of engineering and medical science but to construct a robust bridge that unites them. At the heart of our mission lies a profound commitment to leveraging the cutting-edge advancements in imaging and analysis, augmented significantly by the transformative power of machine learning. Our fascination doesn't stop at the mere application of these technologies; it extends into the realm of computer vision and the intricate layers of both machine and deep learning techniques.
 
+We find ourselves at a unique crossroads, driven by the potential to revolutionize the way clinical problems are approached and solved. Our focus is not generalized but sharply tailored towards tackling a spectrum of challenging clinical quandaries. Each project we undertake is a step forward in this grand fusion of disciplines, embodying our aspiration to bring about a new era in medical diagnostics and treatment. This pursuit is not just about technological innovation; it's about shaping a future where the boundaries of what is medically possible are expanded through the seamless integration of engineering brilliance with medical insight.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
