@@ -29,6 +29,8 @@ We find ourselves at a unique crossroads, driven by the potential to revolutioni
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -50,6 +52,6 @@ We are grateful for funding from NIH and industry partners.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hms.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mgh_logo.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mgh_logo.png" style="width: 200px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gcmi.png" style="width: 120px">
 </figure>
