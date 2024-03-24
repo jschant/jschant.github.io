@@ -1,3 +1,10 @@
+---
+title: "Allan Lab - Home"
+layout: homelay
+excerpt: "Allan Lab at Leiden University &rarr; LMU."
+sitemap: false
+permalink: /
+
 During the next two years, we will build up a "Lehrstuhl" (chair) at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
 More details to follow.
 
