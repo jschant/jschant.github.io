@@ -49,7 +49,7 @@ We are a dynamic research group, located at Massachusetts General Hospital and H
 
 We are grateful for funding from NIH and industry partners.
  
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team!**
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hms.png" style="width: 210px">
