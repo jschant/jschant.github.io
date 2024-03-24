@@ -22,15 +22,16 @@ We find ourselves at a unique crossroads, driven by the potential to revolutioni
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Slider/cover.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Slider/cover.png" style="width: 300px" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Slider/motion_correction.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Slider/motion_correction.png" style="width: 300px" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Slider/multimodal_deep_learning.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Slider/multimodal_deep_learning.png" style="width: 300px" alt="Slide 3" />
+        </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Slider/module.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Slider/module.png" style="width: 300px" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
