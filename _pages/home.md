@@ -48,8 +48,8 @@ We find ourselves at a unique crossroads, driven by the potential to revolutioni
 We are a dynamic research group, located at Massachusetts General Hospital and Harvard Medical School, home to the largest hospital-based imaging research program in the US. 
 
 We are grateful for funding from NIH and industry partners.
-
-**We are  looking for passionate new Postdocs, PhD students, or Master students to join the team!** 
+ 
+ **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hms.png" style="width: 210px">
