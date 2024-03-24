@@ -10,7 +10,7 @@ title: The Woo Lab
 email: jschant@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Woo Lab.
-baseurl: "/Woo-Lab"
+baseurl: ""
 url: ""
 
 include:
