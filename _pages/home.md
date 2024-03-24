@@ -54,7 +54,7 @@ We find ourselves at a unique crossroads, driven by the potential to revolutioni
 </div>
 
 
-We are a dynamic research group, located at Massachusetts General Hospital and Harvard Medical School, home to the largest hospital-based imaging research program in the country. 
+We are a dynamic research group, located at Massachusetts General Hospital and Harvard Medical School, home to the largest hospital-based imaging research program in the US. 
 
 We are grateful for funding from NIH and industry partners.
 
