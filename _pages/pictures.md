@@ -6,7 +6,6 @@ permalink: /pictures/
 ---
 
 # Gallery
-(Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
 
