@@ -28,8 +28,12 @@
   photo: rock.jpg
   info: Visiting PhD student
   email: benschop@physics.leidenuniv.nl
-  number_educ: 2
+  number_educ: 1
   education1: PhD Student, FAU, Germany
-  education2: Master Leiden University with Milan Allan
   
-
+- name: Hahn Kang
+  photo: rock.jpg
+  info: Undergraduate Intern Student
+  email: 
+  number_educ: 1
+  education1: BS Student, Boston College, Boston, USA
