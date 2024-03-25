@@ -22,7 +22,7 @@
   email: paula.andrea.perez@fau.de
   number_educ: 2
   education1: PhD Student, FAU, Germany
-  education1: MS Student, FAU, Germany
+  education2: MS Student, FAU, Germany
 
 - name: Tomás Arias Vergara
   photo: future.png
@@ -38,4 +38,4 @@
   email: shinage@gmail.com
   number_educ: 2
   education1: Postdoc, Stanford University, USA
-  education1: PhD, ECE, University of Southern California, LA, USA
+  education2: PhD, ECE, University of Southern California, LA, USA
