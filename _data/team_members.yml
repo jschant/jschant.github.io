@@ -5,15 +5,17 @@
   number_educ: 3
   education1: Postdoc, Cedars-Sinai Medical Center, University of Maryland, and Johns Hopkins University, USA
   education2: MS/PhD, ECE, University of Southern California, LA, USA
-  education3: BS, ECE, Seoul National University, LA, USA
+  education3: BS, ECE, Seoul National University, Seoul, Korea
 
 - name: Fangxu Xing
   photo: xing.png
   info: Assistant Professor, Harvard Medical School
   email: fxing1@mgh.harvard.edu
   number_educ: 3
-  education1: PhD, ECE, Johns Hopkins University, Baltimore, USA
-  education2: BS, 
+  education1: Postdoc, MGH/Harvard, Boston, MA, USA
+  education2: PhD, ECE, Johns Hopkins University, Baltimore, USA
+  education3: BS, Tsinghua University, Beijing, China
+  
 
 - name: Yudai Sato
   photo: Sato.jpeg
