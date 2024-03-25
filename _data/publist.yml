@@ -36,7 +36,7 @@
 
 - title: "Optimization of three-dimensional dynamic speech MRI: Poisson-disc under sampling and locally higher-rank reconstruction through partial separability model with regional optimized temporal basis,"
   image: apsipa_2024.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  description: We improved the spatiotemporal qualities of images and dynamics of speech MRI through an improved data sampling and image reconstruction approach.
   authors: R. Jin, Y. Li, R. K. Shosted, F. Xing, I. Gilbert, J. L. Perry, J. Woo, Z.-P. Liang, B. P. Sutton
   link:
     url: https://onlinelibrary.wiley.com/doi/10.1002/mrm.29812
