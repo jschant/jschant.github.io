@@ -1,7 +1,6 @@
 - title: "Bias and Fairness in Chatbots: An Overview"
   image: apsipa_2024.png
-  description: With the rapid development of natural language processing (NLP) technologies in recent years, chatbots using large language models (LLMs) have received much attention nowadays. A comprehensive overview on bias and fairness in chatbot systems is given in this
-paper.
+  description: With the rapid development of natural language processing (NLP) technologies in recent years, chatbots using large language models (LLMs) have received much attention nowadays. A comprehensive overview on bias and fairness in chatbot systems is given in this paper.
   authors: J. Xue, Y.-C. Wang, C. Wei, X. Liu, J. Woo, C.-C. J. Kuo
   link:
     url: https://arxiv.org/pdf/2309.08836.pdf
