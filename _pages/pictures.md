@@ -5,10 +5,10 @@ excerpt: "Woo Lab -- Pictures"
 permalink: /pictures/
 ---
 
-#### Gallery
+# Gallery
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
-{% for pic in site.data.pictures %}
+{% for pic in site.data.pictures_Leiden %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
@@ -43,4 +43,9 @@ permalink: /pictures/
 {% endif %}
 
 <p> &nbsp; </p>
+
+First advertisement.
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
+</figure>
 
