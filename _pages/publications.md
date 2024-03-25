@@ -10,7 +10,7 @@ permalink: /publications/
 
 ## Group highlights
 
-**At the end of this page, you can find the [full list of publications](#full-list-of-publications). All papers are also available on Goole Scholar (https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=jonghye+woo&btnG=) or Pubmed (https://pubmed.ncbi.nlm.nih.gov/?term=jonghye+woo).**
+**At the end of this page, you can find the [full list of publications](#full-list-of-publications). All papers are also available on Goole Scholar ([https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=jonghye+woo&btnG=]) or Pubmed ([https://pubmed.ncbi.nlm.nih.gov/?term=jonghye+woo]).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
