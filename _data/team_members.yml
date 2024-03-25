@@ -37,3 +37,10 @@
   email: 
   number_educ: 1
   education1: BS Student, Boston College, Boston, USA
+
+  - name: Taehoon Shin
+  photo: rock.jpg
+  info: Visiting Professor at Ewha Womans University, Korea
+  email: 
+  number_educ: 1
+  education1: PhD, ECE, University of Southern California, LA, USA
