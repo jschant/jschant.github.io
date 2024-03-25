@@ -34,15 +34,14 @@
     display: The Cleft Palate Craniofacial Journal (2023)
   highlight: 1
 
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
-  image: TBG_SL.png
+- title: "Optimization of three-dimensional dynamic speech MRI: Poisson-disc under sampling and locally higher-rank reconstruction through partial separability model with regional optimized temporal basis,"
+  image: apsipa_2024.png
   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+  authors: R. Jin, Y. Li, R. K. Shosted, F. Xing, I. Gilbert, J. L. Perry, J. Woo, Z.-P. Liang, B. P. Sutton
   link:
-    url: https://www.nature.com/articles/s41467-021-27646-1
-    display:  Nat Comm 13, 70 (2022)
-  highlight: 0
-  news2:
+    url: https://onlinelibrary.wiley.com/doi/10.1002/mrm.29812
+    display:  Magnetic Resonance in Medicine (2023)
+  highlight: 1
 
 - title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
   image: TBG_SL.png
