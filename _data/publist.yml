@@ -1,12 +1,3 @@
-- title: "Bias and Fairness in Chatbots: An Overview"
-  image: apsipa_2024.png
-  description: With the rapid development of natural language processing (NLP) technologies in recent years, chatbots using large language models (LLMs) have received much attention nowadays. A comprehensive overview on bias and fairness in chatbot systems is given in this paper.
-  authors: J. Xue, Y.-C. Wang, C. Wei, X. Liu, J. Woo, C.-C. J. Kuo
-  link:
-    url: https://arxiv.org/pdf/2309.08836.pdf
-    display: APSIPA Trans on Signal and Information Processing (2024)
-  highlight: 1
-
 - title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
   image: imageaward_edited.png
   description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
