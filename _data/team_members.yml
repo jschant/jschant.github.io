@@ -2,20 +2,18 @@
   photo: woo_new.jpg
   info: Associate professor, Harvard Medical School
   email: jwoo@mgh.harvard.edu
-  number_educ: 4
+  number_educ: 3
   education1: Postdoc, Cedars-Sinai Medical Center, University of Maryland, and Johns Hopkins University, USA
-  education2: PhD, EE, University of Southern California, LA, USA
-  education3: MS, EE, University of Southern California, LA, USA
-  education4: BS, EE, Seoul National University, LA, USA
+  education2: MS/PhD, ECE, University of Southern California, LA, USA
+  education3: BS, ECE, Seoul National University, LA, USA
 
-
-- name: Jiasen Niu
-  photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+- name: Fangxu Xing
+  photo: xing.jpeg
+  info: Assistant Professor, Harvard Medical School
+  email: fxing1@mgh.harvard.edu
+  number_educ: 3
+  education1: PhD, ECE, Johns Hopkins University, Baltimore, USA
+  education2: BS, 
 
 - name: Yudai Sato
   photo: Sato.jpeg
