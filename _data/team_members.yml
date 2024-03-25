@@ -17,30 +17,30 @@
   education3: BS, Tsinghua University, Beijing, China
   
 - name: Paula Andrea Perez Toro
-  photo: rock.jpg
+  photo: future.png
   info: Visiting Postdoc
-  email: 
+  email: paula.andrea.perez@fau.de
   number_educ: 2
   education1: Postdoc, FAU, Germany
   education2: PhD, FAU, Germany
 
 - name: Tomás Arias Vergara
-  photo: rock.jpg
+  photo: future.png
   info: Visiting PhD student
-  email: benschop@physics.leidenuniv.nl
+  email: tomas.arias@fau.de
   number_educ: 1
   education1: PhD Student, FAU, Germany
   
 - name: Hahn Kang
-  photo: rock.jpg
+  photo: future.png
   info: Undergraduate Intern Student
-  email: 
+  email: hkang14@mgb.org
   number_educ: 1
   education1: BS Student, Boston College, Boston, USA
 
-  - name: Taehoon Shin
-  photo: rock.jpg
+- name: Taehoon Shin
+  photo: future.png
   info: Visiting Professor at Ewha Womans University, Korea
-  email: 
+  email: shinage@gmail.com
   number_educ: 1
   education1: PhD, ECE, University of Southern California, LA, USA
