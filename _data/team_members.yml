@@ -20,8 +20,9 @@
   photo: future.png
   info: Visiting PhD student 
   email: paula.andrea.perez@fau.de
-  number_educ: 1
+  number_educ: 2
   education1: PhD Student, FAU, Germany
+  education1: MS Student, FAU, Germany
 
 - name: Tomás Arias Vergara
   photo: future.png
@@ -35,5 +36,6 @@
   photo: future.png
   info: Visiting Professor from Ewha Womans University, Korea
   email: shinage@gmail.com
-  number_educ: 1
+  number_educ: 2
+  education1: Postdoc, Stanford University, USA
   education1: PhD, ECE, University of Southern California, LA, USA
