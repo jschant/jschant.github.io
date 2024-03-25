@@ -22,10 +22,10 @@ We find ourselves at a unique crossroads, driven by the potential to revolutioni
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Slider/cover.png" style="width: 500px" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Slider/award.png" style="width: 500px" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Slider/motion_correction.png" style="width: 500px" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Slider/cover.png" style="width: 500px" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Slider/multimodal_deep_learning.png" style="width: 500px" alt="Slide 3" />
