@@ -18,18 +18,18 @@
   
 - name: Paula Andrea Perez Toro
   photo: future.png
-  info: Visiting Postdoc
+  info: Visiting PhD student 
   email: paula.andrea.perez@fau.de
-  number_educ: 2
-  education1: Postdoc, FAU, Germany
-  education2: PhD, FAU, Germany
+  number_educ: 1
+  education1: PhD Student, FAU, Germany
 
 - name: Tomás Arias Vergara
   photo: future.png
-  info: Visiting PhD student
+  info: Visiting Postdoc
   email: tomas.arias@fau.de
-  number_educ: 1
-  education1: PhD Student, FAU, Germany
+  number_educ: 2
+  education1: Postdoc, FAU, Germany
+  education2: PhD, FAU, Germany
 
 - name: Taehoon Shin
   photo: future.png
