@@ -17,7 +17,7 @@
   highlight: 1
   
 - title: "Multi-Scale Self-Attention Network for Denoising Medical Images"
-  image: apsipa_2024_2.png
+  image: media_2023.png
   description: In this work, we develop a new deep learning-based image denoising especially to deal with rapid fluorescence and ultrasound captures where traditional noise mitigation strategies are limited, such as increasing pixel dwell time or frame averaging.
   authors: K. Lee, H. Lee, M. Lee, J. Chang, C.-C. Jay Kuo, S.-J. Oh, J. Woo, J. Y. Hwang
   link:
