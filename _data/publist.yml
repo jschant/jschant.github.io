@@ -81,9 +81,18 @@
 
 - title: "Speech Audio Synthesis from Tagged MRI and Non-negative Matrix Factorization via Plastic Transformer"
   image: miccai_2023_2.png
-  description: In this work, we developed a generative self-training framework for domain adaptive image translation with continuous value prediction and regression objectives.
+  description: In this work, we developed a speech audio synthesis approach from tagged MRI via Plastic transformer.
   authors: X. Liu, F. Xing, M. Stone, J. Zhuo, S. Fels, J. L. Prince, G. El Fakhri, J. Woo
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-031-43990-2_41
+    display: MICCAI (2023)
+  highlight: 1
+
+- title: "Fine-Tuning Network in Federated Learning for Personalized Skin Diagnosis"
+  image: miccai_2023_3.png
+  description: In this work, we developed a federated learning approach for personalized skin diagnosis via fine-tuning network.
+  authors: 	K. Lee, H. Lee, T. Coutinho Cavalcanti, S. Kim, G. El Fakhri, D. H. Lee, J. Woo, J. Y. Hwang
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-031-43898-1_37
     display: MICCAI (2023)
   highlight: 1
