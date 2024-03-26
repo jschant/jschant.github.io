@@ -53,7 +53,7 @@
   highlight: 1
 
 - title: "Memory consistent unsupervised off-the-shelf model adaptation for source-relaxed medical image segmentation"
-  image: media2023_2.png
+  image: media_2023_2.png
   description: We propose off-the-shelf (OS) UDA (OSUDA), aimed at image segmentation, by adapting an OS segmentor trained in a source domain to a target domain, in the absence of source domain data in adaptation.
   authors: X. Liu, F. Xing, G. El Fakhri, J. Woo
   link:
