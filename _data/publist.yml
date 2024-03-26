@@ -1,3 +1,12 @@
+- title: "Subtype-Aware Dynamic Unsupervised Domain Adaptation"
+  image: IEEE_TN.png
+  description: In this work, we developed a generative self-training framework for domain adaptive image translation with continuous value prediction and regression objectives.
+  authors: X. Liu, F. Xing, J. You, J. Lu, C.-C. J. Kuo, G. El Fakhri, J. Woo
+  link:
+    url: https://arxiv.org/abs/2208.07754
+    display:  	IEEE Transactions on Neural Networks and Learning Systems (TNNLS) (2024)
+  highlight: 1
+
 - title: "Bias and Fairness in Chatbots: An Overview"
   image: apsipa_2024.png
   description: With the rapid development of natural language processing (NLP) technologies in recent years, chatbots using large language models (LLMs) have received much attention nowadays. A comprehensive overview on bias and fairness in chatbot systems is given in this paper.
