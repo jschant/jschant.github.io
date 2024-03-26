@@ -49,7 +49,7 @@
   authors: R. Jin, Y. Li, R. K. Shosted, F. Xing, I. Gilbert, J. L. Perry, J. Woo, Z.-P. Liang, B. P. Sutton
   link:
     url: https://onlinelibrary.wiley.com/doi/10.1002/mrm.29812
-    display:  Magnetic Resonance in Medicine (2023)
+    display: Magnetic Resonance in Medicine (2023)
   highlight: 1
 
 - title: "Attentive Continuous Generative Self-training for Unsupervised Domain Adaptive Medical Image Translation"
@@ -58,7 +58,7 @@
   authors: X. Liu, J. L. Prince, F. Xing, J. Zhuo, T. Reese, M. Stone, G. El Fakhria, J. Woo
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S1361841523001111
-    display:  Medical Image Analysis (2023)
+    display: Medical Image Analysis (2023)
   highlight: 1
 
 - title: "Incremental Learning for Heterogeneous Structure Segmentation in Brain Tumor MRI"
@@ -66,5 +66,5 @@
   description: In this work, we seek to progressively evolve an “off-the-shelf” trained segmentation model to diverse datasets with additional anatomical categories in a unified manner.  authors: X. Liu, H. A. Shih, F. Xing, E. Santarnecchi, G. El Fakhri, J. Woo
   link:
     url: https://arxiv.org/abs/2305.19404v1
-    display:  MICCAI (2023)
+    display: MICCAI (2023)
   highlight: 1
