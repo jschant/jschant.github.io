@@ -70,7 +70,7 @@
     display:  Medical Image Analysis (2023)
   highlight: 1
 
-  - title: "Incremental Learning for Heterogeneous Structure Segmentation in Brain Tumor MRI"
+- title: "Incremental Learning for Heterogeneous Structure Segmentation in Brain Tumor MRI"
   image: media_2023.png
   description: In this work, we seek to progressively evolve an “off-the-shelf” trained segmentation model to diverse datasets with additional anatomical categories in a unified manner.  authors: X. Liu, H. A. Shih, F. Xing, E. Santarnecchi, G. El Fakhri, J. Woo
   link:
