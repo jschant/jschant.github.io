@@ -34,6 +34,15 @@
     display: APSIPA Trans on Signal and Information Processing (2024)
   highlight: 1
 
+- title: "Noise-Robust Sleep Staging via Adversarial Training With an Auxiliary Model"
+  image: tbme_2023.png
+  description: In this work, we develop a noise-robust sleep stage network via adversarial training with an auxiliary model. 
+  authors: C. H. Yoo, X. Liu, F. Xing, G. El Fakhri, J. Woo, J.-W. Kang
+  link:
+    url: https://ieeexplore.ieee.org/document/9917539
+    display: IEEE Trans on Biomedical Engineering (2023)
+  highlight: 1
+
 - title: "Incremental Learning for Heterogeneous Structure Segmentation in Brain Tumor MRI"
   image: miccai_2023.png
   description: In this work, we seek to progressively evolve an “off-the-shelf” trained segmentation model to diverse datasets with additional anatomical categories in a unified manner.  
