@@ -1,6 +1,6 @@
 - title: "Subtype-Aware Dynamic Unsupervised Domain Adaptation"
   image: IEEE_TN.png
-  description: In this work, we developed a generative self-training framework for domain adaptive image translation with continuous value prediction and regression objectives.
+  description: In this work, we develop an unsupervised domain adaptation approach to carry out class-wise conditional alignment.
   authors: X. Liu, F. Xing, J. You, J. Lu, C.-C. J. Kuo, G. El Fakhri, J. Woo
   link:
     url: https://arxiv.org/abs/2208.07754
