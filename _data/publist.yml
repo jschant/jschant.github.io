@@ -34,6 +34,15 @@
     display: APSIPA Trans on Signal and Information Processing (2024)
   highlight: 1
 
+- title: "Memory consistent unsupervised off-the-shelf model adaptation for source-relaxed medical image segmentation"
+  image: media2023_2.png
+  description: We propose "off-the-shelf (OS)" UDA (OSUDA), aimed at image segmentation, by adapting an OS segmentor trained in a source domain to a target domain, in the absence of source domain data in adaptation.
+  authors: X. Liu, F. Xing, G. El Fakhri, J. Woo
+  link:
+    url: https://arxiv.org/abs/2209.07910
+    display: Medical Image Analysis (2023)
+  highlight: 1
+
 - title: "Preliminary Development of an MRI Atlas for Application to Cleft Care: Findings and Future Recommendations"
   image: mrm_2023.png
   description: We introduce a highly innovative imaging method to study the complex velopharyngeal system and introduce the potential future clinical applications of a VP atlas in cleft care.
