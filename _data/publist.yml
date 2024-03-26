@@ -91,7 +91,7 @@
 - title: "Fine-Tuning Network in Federated Learning for Personalized Skin Diagnosis"
   image: miccai_2023_3.png
   description: In this work, we developed a federated learning approach for personalized skin diagnosis via fine-tuning network.
-  authors: 	K. Lee, H. Lee, T. Coutinho Cavalcanti, S. Kim, G. El Fakhri, D. H. Lee, J. Woo, J. Y. Hwang
+  authors: K. Lee, H. Lee, T. Coutinho Cavalcanti, S. Kim, G. El Fakhri, D. H. Lee, J. Woo, J. Y. Hwang
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-031-43898-1_37
     display: MICCAI (2023)
