@@ -36,7 +36,8 @@
 
 - title: "Incremental Learning for Heterogeneous Structure Segmentation in Brain Tumor MRI"
   image: miccai_2023.png
-  description: In this work, we seek to progressively evolve an “off-the-shelf” trained segmentation model to diverse datasets with additional anatomical categories in a unified manner.  authors: X. Liu, H. A. Shih, F. Xing, E. Santarnecchi, G. El Fakhri, J. Woo
+  description: In this work, we seek to progressively evolve an “off-the-shelf” trained segmentation model to diverse datasets with additional anatomical categories in a unified manner.  
+  authors: X. Liu, H. A. Shih, F. Xing, E. Santarnecchi, G. El Fakhri, J. Woo
   link:
     url: https://arxiv.org/abs/2305.19404v1
     display: MICCAI (2023)
@@ -51,6 +52,15 @@
     display: The Cleft Palate Craniofacial Journal (2023)
   highlight: 1
 
+- title: "Memory consistent unsupervised off-the-shelf model adaptation for source-relaxed medical image segmentation"
+  image: media2023_2.png
+  description: We propose off-the-shelf (OS) UDA (OSUDA), aimed at image segmentation, by adapting an OS segmentor trained in a source domain to a target domain, in the absence of source domain data in adaptation.
+  authors: X. Liu, F. Xing, G. El Fakhri, J. Woo
+  link:
+    url: https://arxiv.org/abs/2209.07910
+    display: Medical Image Analysis (2023)
+  highlight: 1
+  
 - title: "Optimization of three-dimensional dynamic speech MRI: Poisson-disc under sampling and locally higher-rank reconstruction through partial separability model with regional optimized temporal basis"
   image: mrm_2023.png
   description: We improved the spatiotemporal qualities of images and dynamics of speech MRI through an improved data sampling and image reconstruction approach.
