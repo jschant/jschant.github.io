@@ -43,7 +43,7 @@
     display: The Cleft Palate Craniofacial Journal (2023)
   highlight: 1
 
-- title: "Optimization of three-dimensional dynamic speech MRI: Poisson-disc under sampling and locally higher-rank reconstruction through partial separability model with regional optimized temporal basis,"
+- title: "Optimization of three-dimensional dynamic speech MRI: Poisson-disc under sampling and locally higher-rank reconstruction through partial separability model with regional optimized temporal basis"
   image: mrm_2023.png
   description: We improved the spatiotemporal qualities of images and dynamics of speech MRI through an improved data sampling and image reconstruction approach.
   authors: R. Jin, Y. Li, R. K. Shosted, F. Xing, I. Gilbert, J. L. Perry, J. Woo, Z.-P. Liang, B. P. Sutton
