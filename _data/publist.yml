@@ -34,6 +34,14 @@
     display: APSIPA Trans on Signal and Information Processing (2024)
   highlight: 1
 
+- title: "Incremental Learning for Heterogeneous Structure Segmentation in Brain Tumor MRI"
+  image: miccai_2023.png
+  description: In this work, we seek to progressively evolve an “off-the-shelf” trained segmentation model to diverse datasets with additional anatomical categories in a unified manner.  authors: X. Liu, H. A. Shih, F. Xing, E. Santarnecchi, G. El Fakhri, J. Woo
+  link:
+    url: https://arxiv.org/abs/2305.19404v1
+    display: MICCAI (2023)
+  highlight: 1
+
 - title: "Preliminary Development of an MRI Atlas for Application to Cleft Care: Findings and Future Recommendations"
   image: mrm_2023.png
   description: We introduce a highly innovative imaging method to study the complex velopharyngeal system and introduce the potential future clinical applications of a VP atlas in cleft care.
@@ -59,12 +67,4 @@
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S1361841523001111
     display: Medical Image Analysis (2023)
-  highlight: 1
-
-- title: "Incremental Learning for Heterogeneous Structure Segmentation in Brain Tumor MRI"
-  image: miccai_2023.png
-  description: In this work, we seek to progressively evolve an “off-the-shelf” trained segmentation model to diverse datasets with additional anatomical categories in a unified manner.  authors: X. Liu, H. A. Shih, F. Xing, E. Santarnecchi, G. El Fakhri, J. Woo
-  link:
-    url: https://arxiv.org/abs/2305.19404v1
-    display: MICCAI (2023)
   highlight: 1
