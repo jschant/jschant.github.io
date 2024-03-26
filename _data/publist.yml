@@ -78,3 +78,12 @@
     url: https://www.sciencedirect.com/science/article/abs/pii/S1361841523001111
     display: Medical Image Analysis (2023)
   highlight: 1
+
+- title: "Speech Audio Synthesis from Tagged MRI and Non-negative Matrix Factorization via Plastic Transformer"
+  image: miccai_2023_2.png
+  description: In this work, we developed a generative self-training framework for domain adaptive image translation with continuous value prediction and regression objectives.
+  authors: X. Liu, F. Xing, M. Stone, J. Zhuo, S. Fels, J. L. Prince, G. El Fakhri, J. Woo
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-031-43990-2_41
+    display: MICCAI (2023)
+  highlight: 1
