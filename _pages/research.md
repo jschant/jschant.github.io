@@ -26,7 +26,7 @@ permalink: /research/
 
 ---
 
-**Unsupervised Domain Adaptation** 
+**(Unsupervised) Domain Adaptation** 
 
 ---
 
