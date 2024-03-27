@@ -105,3 +105,13 @@
     url: https://link.springer.com/chapter/10.1007/978-3-031-43898-1_37
     display: MICCAI (2023)
   highlight: 1
+
+- title: "Brain MR Atlas Construction Using Symmetric Deep Neural Inpainting"
+  image: jbhi_2022.png
+  description: In this work, we developed a method for deep learning based inpainting and applied to construct brain atlases.
+  authors: F. Xing, X. Liu, C.-C. J. Kuo, G. El Fakhri, J. Woo
+  link:
+    url: https://ieeexplore.ieee.org/document/9709149/
+    display: IEEE J. Biomed. Health Informatics (2022)
+  highlight: 1
+  
