@@ -8,6 +8,31 @@ permalink: /research/
 
 # Research
 
-Updating soon.
+---
+
+**Speech/tongue data analytics** 
+
+---
+
+**Brain Tumor Analysis** 
+
+---
+
+**Cardiac Image/Motion Analysis** 
+
+---
+
+**Anatomical and Functional Atlases** 
+
+---
+
+**Unsupervised Domain Adaptation** 
+
+---
+
+**Interpretable Machine/Deep Learning**
+
+---
+
 
 
