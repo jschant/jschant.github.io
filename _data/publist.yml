@@ -115,3 +115,13 @@
     display: IEEE J. Biomed. Health Informatics (2022)
   highlight: 1
   
+- title: "VoxelHop: Successive Subspace Learning for ALS Disease Classification Using Structural MRI"
+  image: jbhi_2022_2.png
+  description: In this work, we developed a lightweight and interpretable machine learning framework for ALS disease classification from structural MRI.
+  authors: X. Liu, F. Xing, C. Yang, C.-C. J. Kuo, S. Babu, G. El Fakhri, T. Jenkins, J. Woo
+  link:
+    url: https://arxiv.org/abs/2101.05131
+    display: IEEE J. Biomed. Health Informatics (2022)
+  highlight: 1
+
+
