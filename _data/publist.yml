@@ -17,7 +17,7 @@
   highlight: 1
 
 - title: "Disentangled multimodal brain MR image translation via transformer-based modality infuser"
-  image: spie_2024_2.png
+  image: spie_2024_3.png
   description: Magnetic Resonance Imaging with tagging (tMRI) has long been utilized for quantifying tissue motion and strain during deformation. However, a phenomenon known as tag fading, a gradual decrease in tag visibility over time, often complicates post-processing.
   authors: 	J. Cho, X. Liu, F. Xing, J. Ouyang, G. El Fakhri, J. Park, J. Woo
   link:
