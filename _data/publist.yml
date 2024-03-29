@@ -7,6 +7,15 @@
     display: IEEE Transactions on Neural Networks and Learning Systems (TNNLS) (2024)
   highlight: 1
 
+- title: "Is Registering Raw Tagged-MR Enough for Strain Estimation in the Era of Deep Learning?"
+  image: spie_2024.png
+  description: Magnetic Resonance Imaging with tagging (tMRI) has long been utilized for quantifying tissue motion and strain during deformation. However, a phenomenon known as tag fading, a gradual decrease in tag visibility over time, often complicates post-processing.
+  authors: Z. Bian, A. Alshareef, S. Wei, J. Chen, Y. Wang, J. Woo, D. L. Pham, J. Zhuo, A. Carass, J. L. Prince
+  link:
+    url: https://arxiv.org/abs/2401.17571
+    display: SPIE Medical Imaging (2024) -- Best Student Paper Award
+  highlight: 1
+  
 - title: "Bias and Fairness in Chatbots: An Overview"
   image: apsipa_2024.png
   description: With the rapid development of natural language processing (NLP) technologies in recent years, chatbots using large language models (LLMs) have received much attention nowadays. A comprehensive overview on bias and fairness in chatbot systems is given in this paper.
