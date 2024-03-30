@@ -80,7 +80,7 @@
   highlight: 1
 
 - title: "Successive Subspace Learning for Cardiac Disease Classification with Two-phase Deformation Fields from Cine MRI"
-  image: mrm_2023.png
+  image: isbi_2023.png
   description: We developed successive subspace learning for cardiac disease classification from cine MRI.
   authors: X. Liu, F. Xing, H. K. Gaggin, C.-C. J. Kuo, G. El Fakhri, J. Woo
   link:
