@@ -79,6 +79,16 @@
     display: The Cleft Palate Craniofacial Journal (2023)
   highlight: 1
 
+- title: "Successive Subspace Learning for Cardiac Disease Classification with Two-phase Deformation Fields from Cine MRI"
+  image: mrm_2023.png
+  description: We developed successive subspace learning for cardiac disease classification from cine MRI.
+  authors: X. Liu, F. Xing, H. K. Gaggin, C.-C. J. Kuo, G. El Fakhri, J. Woo
+  link:
+    url: https://arxiv.org/abs/2301.08959
+    display: IEEE ISBI (2023)
+  highlight: 1
+
+
 - title: "Memory consistent unsupervised off-the-shelf model adaptation for source-relaxed medical image segmentation"
   image: media_2023_2.png
   description: We propose off-the-shelf (OS) UDA (OSUDA), aimed at image segmentation, by adapting an OS segmentor trained in a source domain to a target domain, in the absence of source domain data in adaptation.
