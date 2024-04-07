@@ -152,4 +152,13 @@
     display: IEEE J. Biomed. Health Informatics (2022)
   highlight: 1
 
+- title: "Deep unsupervised domain adaptation: A review of recent advances and perspectives"
+  image: apsipa_2022.png
+  description: This review summairzes state-of-the-art deep unsupervised domain adaptation techniques that are proposed in recent years.
+  authors: X. Liu, C. Yoo, F. Xing, H. Oh, G. El Fakhri, J.-W. Kang, J. Woo
+  link:
+    url: https://arxiv.org/abs/2208.07422
+    display: APSIPA Trans on Signal and Information Processing (2022)
+  highlight: 1
+
 
