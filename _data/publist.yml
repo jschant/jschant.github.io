@@ -89,6 +89,16 @@
   highlight: 1
 
 
+- title: "Self-Supervised Domain Adaptive Segmentation of Breast Cancer via Test-Time Fine-Tuning"
+  image: isbi_2023.png
+  description: We developed a new self-supervised domain adaptive segmentation method for breast cancer.
+  authors: K. Lee, H. Lee, G. El Fakhri, J. Woo, J. Y. Hwang
+  link:
+    url: https://dl.acm.org/doi/abs/10.1007/978-3-031-43907-0_52
+    display: MICCAI (2023)
+  highlight: 1
+
+
 - title: "Memory consistent unsupervised off-the-shelf model adaptation for source-relaxed medical image segmentation"
   image: media_2023_2.png
   description: We propose off-the-shelf (OS) UDA (OSUDA), aimed at image segmentation, by adapting an OS segmentor trained in a source domain to a target domain, in the absence of source domain data in adaptation.
