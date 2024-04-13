@@ -171,4 +171,13 @@
     display: APSIPA Trans on Signal and Information Processing (2022)
   highlight: 1
 
+- title: "Adversarial unsupervised domain adaptation with conditional and label shift: Infer, align and iterate"
+  image: iccv_2021.png
+  description: This work proposed an adversarial unsupervised domain adaptation with conditional and label shift.
+  authors: X. Liu, Z. Guo, S. Li, F. Xing, J. You, C.-C. J. Kuo, G. El Fakhri, J. Woo
+  link:
+    url: https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Adversarial_Unsupervised_Domain_Adaptation_With_Conditional_and_Label_Shift_Infer_ICCV_2021_paper.pdf
+    display: ICCV (2021)
+  highlight: 1
+
 
