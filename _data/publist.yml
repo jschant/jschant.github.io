@@ -180,4 +180,12 @@
     display: ICCV (2021)
   highlight: 1
 
+- title: "Severity-Aware Semantic Segmentation With Reinforced Wasserstein Training"
+  image: cvpr_2020.png
+  description: This work proposed severity-aware semantic segmentation with reinforced Wasserstein training.
+  authors: X. Liu, W. Ji, J. You, G. El Fakhri, J. Woo
+  link:
+    url: https://ieeexplore.ieee.org/document/9156365
+    display: ICCV (2021)
+  highlight: 1
 
