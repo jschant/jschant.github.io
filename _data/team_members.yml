@@ -34,8 +34,10 @@
 
 - name: Taehoon Shin
   photo: future.png
-  info: Visiting Professor from Ewha Womans University, Korea
+  info: Visiting Professor from Ewha Womans University, Seoul, Korea
   email: shinage@gmail.com
-  number_educ: 2
+  number_educ: 3
   education1: Postdoc, Stanford University, USA
-  education2: PhD, ECE, University of Southern California, LA, USA
+  education2: MS/PhD, ECE, University of Southern California, LA, USA
+  education2: BS, Mech. Eng., Seoul National University, Seoul, Korea
+
