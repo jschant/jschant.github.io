@@ -144,6 +144,15 @@
     display: MICCAI (2023)
   highlight: 1
 
+- title: "Motor control similarity between speakers saying “a souk” using inverse atlas tongue modeling"
+  image: interspeech_2023.png
+  description: We use inverse atlas tongue modeling for investigating motor control similarity.
+  authors: U. Maity, F. Xing, J. Prince, M. Stone, G. El Fakhri, J. Woo, S. Fels
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10723628/
+    display: Interspeech (2023)
+  highlight: 1
+
 - title: "Brain MR Atlas Construction Using Symmetric Deep Neural Inpainting"
   image: jbhi_2022.png
   description: In this work, we developed a method for deep learning based inpainting and applied to construct brain atlases.
