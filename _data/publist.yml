@@ -8,7 +8,7 @@
   highlight: 1
 
 - title: "Exploring Backdoor Attacks in Off-the-Shelf Unsupervised Domain Adaptation for Securing Cardiac MRI-Based Diagnosis"
-  image: IEEE_ISBI_2024.png
+  image: isbi_2024.png
   description: An off-the-shelf model for unsupervised domain adaptation (OSUDA) can be vulnerable to backdoor attacks due to the inability to access or control source domain data, but a proposed method quantifies backdoor sensitivity using a Lipschitz constant and eliminates the infection by overwriting backdoor-related channel kernels, validated on a multi-center cardiac dataset.
   authors: X. Liu, F. Xing, H. Gaggin, C.-C. J. Kuo, G. El Fakhri, J. Woo
   link:
