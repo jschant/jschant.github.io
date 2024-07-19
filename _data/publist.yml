@@ -179,6 +179,15 @@
     url: https://ieeexplore.ieee.org/document/9709149/
     display: IEEE J. Biomed. Health Informatics (2022)
   highlight: 1
+
+- title: "Unsupervised Black-Box Model Domain Adaptation for Brain Tumor Segmentation"
+  image: frontier_2022.png
+  description: Unsupervised domain adaptation (UDA) transfers knowledge from a labeled source domain to unlabeled target domains, addressing the challenge of labeling in new domains. To overcome privacy concerns in cross-center collaborations, we propose a UDA framework using a black-box segmentation model with knowledge distillation and unsupervised entropy minimization, validated on multiple datasets and demonstrating potential in clinical settings.
+  authors: X. Liu, C. Yoo, F. Xing, C.-C. J. Kuo, G. El Fakhri, J.-W. Kang and J. Woo
+  link:
+    url: https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.837646/full
+    display: Frontiers in Neuroscience (2022)
+  highlight: 1
   
 - title: "VoxelHop: Successive Subspace Learning for ALS Disease Classification Using Structural MRI"
   image: jbhi_2022_2.png
