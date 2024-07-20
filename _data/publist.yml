@@ -88,6 +88,15 @@
     display: MICCAI (2023)
   highlight: 1
 
+- title: "Outlier Robust Disease Classification via Stochastic Confidence Network"
+  image: miccai_2023_workshop.png
+  description: The Stochastic Confidence Network (SCN) is a novel deep learning model designed to handle outliers in medical imaging, ensuring accurate and robust diagnoses. Experimental results on databases for breast tumors and Alzheimer's disease demonstrated that SCN significantly improves diagnostic performance by eliminating irrelevant outlier data and resampling outliers into a typical distribution, outperforming state-of-the-art models.
+  authors: K. Lee, H. Lee, G. El Fakhri, J. Sepulcre, X. Liu, F. Xing, J. Y. Hwang, J. Woo
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-031-47425-5_8
+    display: MICCAI MTSAIL (2023)
+  highlight: 1
+
 - title: "Preliminary Development of an MRI Atlas for Application to Cleft Care: Findings and Future Recommendations"
   image: mrm_2023.png
   description: We introduce a highly innovative imaging method to study the complex velopharyngeal system and introduce the potential future clinical applications of a VP atlas in cleft care.
