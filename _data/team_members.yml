@@ -45,6 +45,20 @@
   photo: future_f.png
   info: Visiting PhD Student 
   email: gkim33@mgh.harvard.edu
-  number_educ: 2
+  number_educ: 1
   education1: PhD Student, Ewha Womans University, Seoul, Korea
- 
+
+- name: Hyounjoong Kong
+  photo: future.png
+  info: Visiting Professor from Seoul National University College of Medicine, Seoul, Korea
+  email: HKONG1@mgh.harvard.edu
+  number_educ: 2
+  education1: MS/PhD, Seoul National University College of Medicine, Korea
+  education2: BS, Elec. Eng., Seoul National University, Seoul, Korea
+
+- name: Jeeyoung Hong
+  photo: future_f.png
+  info: Visiting Researcher from Seoul National University College of Medicine, Seoul, Korea
+  email: JHONG15@mgh.harvard.edu
+  number_educ: 1
+  education1: Postdoc, Seoul National University College of Medicine, Seoul, Korea
