@@ -1,3 +1,12 @@
+- title: "Quantifying articulatory variations across phonological environments: an atlas-based approach using dynamic magnetic resonance imaging"
+  image: miccai_2024.png
+  description: In this work, This study explores variations in velar consonant production across different phonological environments using dynamic magnetic resonance imaging (MRI).
+  authors: F. Xing, J. Zhuo, M. Stone, X. Liu, T. G. Reese, V. J. Wedeen, J. L. Prince, J. Woo
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-031-72104-5_67
+    display: JASA (2024)
+  highlight: 1
+
 - title: "Tagged-to-Cine MRI Sequence Synthesis via Light Spatial-Temporal Transformer"
   image: miccai_2024.png
   description: In this work, we develop a tag-to-cine MRI sequence synthesis approach using spatio-temporal transformer.
