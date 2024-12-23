@@ -1,20 +1,11 @@
-
-- name: Jihoon Cho, KAIST, Korea, 2023
-
-- name: Kyungsu Lee, DGIST, Korea, 2023
-
-- name: Chaehwa Yoo, Ewha Womans University, Korea
-
-- name: Prof. Jewon Kang, Ewha Womans University, Korea
-
-- name: Dr. Negar Harandi, UBC, Canada
-
-- name: Yongjin Chang, KAIST, Korea
-
-- name: Maojing Fu, UIUC, USA
-
-- name: Prof. Hyoun-Joong Kong, SNU Hospital, Korea
-
-- name: Dr. Jeeyoung Hong, SNU Hospital, Korea
-
-- name: Prof. Taehoon Shin, Ewha Womans University, Seoul, Korea
+alumni_visitors:
+  - name: Jihoon Cho, KAIST, Korea, 2023
+  - name: Kyungsu Lee, DGIST, Korea, 2023
+  - name: Chaehwa Yoo, Ewha Womans University, Korea
+  - name: Prof. Jewon Kang, Ewha Womans University, Korea
+  - name: Dr. Negar Harandi, UBC, Canada
+  - name: Yongjin Chang, KAIST, Korea
+  - name: Maojing Fu, UIUC, USA
+  - name: Prof. Hyoun-Joong Kong, SNU Hospital, Korea
+  - name: Dr. Jeeyoung Hong, SNU Hospital, Korea
+  - name: Prof. Taehoon Shin, Ewha Womans University, Seoul, Korea
