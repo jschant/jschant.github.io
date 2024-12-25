@@ -43,6 +43,16 @@
     display: SPIE Medical Imaging (2024) -- Best Student Paper Award
   highlight: 1
 
+- title: "Contrastive Learning Approach for Assessment of Phonological Precision in
+Patients with Tongue Cancer Using MRI Data"
+  image: spie_2024_2.png
+  description: We propose a contrastive learning approach that improves the detection of phonological classes from MRI data when acoustic signals are unavailable, raising frame-wise recognition from an f1 of 0.74 to 0.85. Applied to clinical assessments in tongue cancer patients, this method demonstrates promising results for speech disorder evaluation, potentially enhancing patient outcomes.
+  authors: T. Arias-Vergara, P. Andrea Perez-Toro, X. Liu, F. Xing, M. Stone, J. Zhuo, J. L. Prince, M. Schuster, E. Noth, J. Woo, A. Maier
+  link:
+    url: https://www.isca-archive.org/interspeech_2024/ariasvergara24_interspeech.html
+    display: Interspeech (2024)
+  highlight: 1
+
 - title: "Disentangled multimodal brain MR image translation via transformer-based modality infuser"
   image: spie_2024_3.png
   description: Magnetic Resonance Imaging with tagging (tMRI) has long been utilized for quantifying tissue motion and strain during deformation. However, a phenomenon known as tag fading, a gradual decrease in tag visibility over time, often complicates post-processing.
