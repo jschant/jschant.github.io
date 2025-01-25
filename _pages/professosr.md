@@ -20,8 +20,15 @@ Dr. Jonghye Woo is an Associate Professor in the Department of Radiology at Harv
 - Adjunct Professor, MGH Institute of Health Professions, Boston, MA, 2015-Present
 
 ### EDITORIAL ROLE/PROGRAM COMMITTEE
-- Associate Professor, Department of Radiology, Harvard Medical School, 2022-Present.
-
+- Associate Editor, IEEE Journal of Biomedical and Health Informatics
+- Editorial Board Member, APSIPA Transactions on Signal and Information Processing
+- Topic (Guest) Associate Editor, “Machine Learning with Big Data in Neuroimaging,” at Frontiers in Neuroscience
+- Guest Editor, PLOS Computational Biology
+- MICCAI (Organizing Committee), 2025
+- IEEE ICIP Session Chair on “Application of Generative AI in Healthcare”, 2025
+- MICCAI (Area Chair, Poster Session Chair, and Program Committee), 2023-Present
+- MICCAI Workshop on Time-Series Data Analytics and Learning (Co-chair), 2023-Present
+- SPIE Medical Imaging: Image Processing (Session Chair and Program Committee), 2022-Present
 
 ### AWARDS & HONORS
 - Distinguished Investigator Award, Academy of Radiology & Biomedical Imaging Research, 2023
