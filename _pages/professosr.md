@@ -34,7 +34,7 @@ Dr. Jonghye Woo is an Associate Professor in the Department of Radiology at Harv
 - Distinguished Investigator Award, Academy of Radiology & Biomedical Imaging Research, 2023
 - NIH K99/R00 Pathway to Independence Award (NIDCD), 2013
 - Best Dissertation Award, Viterbi School of Engineering, USC, 2010
-- Scholarship from the Korean Goverment for MS study, 2005
+- Scholarship from the Korean Government for MS study, 2005
 
 ### MEMBERSHIPS
 - Senior Member, Institute of Electrical and Electronics Engineers (IEEE)
