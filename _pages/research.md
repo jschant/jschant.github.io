@@ -11,6 +11,7 @@ permalink: /research/
 ---
 
 **Speech/tongue data analytics** 
+
 Our current research in speech and tongue data analytics focuses on developing advanced MRI techniques for analyzing tongue motion during speech. We have created statistical multimodal atlases of 4D tongue motion and high-resolution vocal tract models using structural MRI. We are employing deep learning methods to differentiate post-cancer from healthy tongue muscle coordination patterns during speech. Our future research in this area is likely to explore more sophisticated AI models for real-time speech analysis, potentially leading to improved diagnostic tools for speech disorders and more effective rehabilitation techniques for patients with oral cancers or neurological conditions affecting speech.
 
 ---
