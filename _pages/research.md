@@ -36,7 +36,7 @@ The development of anatomical and functional atlases is a significant area of ou
 
 **(Unsupervised) Domain Adaptation** 
 
-Our current research in unsupervised domain adaptation includes comprehensive reviews of deep unsupervised domain adaptation techniques and the development of adversarial methods with conditional and label shift. We have also worked on adapting off-the-shelf source segmenters for target medical image segmentation. Our future research may explore more sophisticated domain adaptation techniques that can handle extreme domain shifts, multi-source domain adaptation for medical imaging, and the development of domain-invariant features that can generalize across a wide range of medical imaging modalities and acquisition parameters.
+Our current research in unsupervised domain adaptation includes the development of adversarial methods with conditional and label shift. We have also worked on adapting off-the-shelf source segmenters for target medical image segmentation. Our future research may explore more sophisticated domain adaptation techniques that can handle extreme domain shifts, multi-source domain adaptation for medical imaging, and the development of domain-invariant features that can generalize across a wide range of medical imaging modalities and acquisition parameters.
 
 ---
 
