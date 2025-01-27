@@ -23,13 +23,13 @@ Dr. Jonghye Woo is an Associate Professor in the Department of Radiology at Harv
 ### Editorial role/Program Committee
 - Associate Editor, IEEE Journal of Biomedical and Health Informatics
 - Editorial Board Member, APSIPA Transactions on Signal and Information Processing
-- Topic (Guest) Associate Editor, “Machine Learning with Big Data in Neuroimaging,” at Frontiers in Neuroscience
+- Topic (Guest) Associate Editor, “Machine Learning with Big Data in Neuroimaging,” Frontiers in Neuroscience
 - Guest Editor, PLOS Computational Biology
-- MICCAI (Organizing Committee), 2025
-- IEEE ICIP Session Chair on “Application of Generative AI in Healthcare”, 2025
-- MICCAI (Area Chair, Poster Session Chair, and Program Committee), 2023-Present
+- Organizing Committee, MICCAI, 2025
+- IEEE ICIP Session Co-chair on “Application of Generative AI in Healthcare”, 2025
+- Area Chair, Poster Session Chair, and Program Committee, MICCAI, 2023-Present
 - MICCAI Workshop on Time-Series Data Analytics and Learning (Co-chair), 2023-Present
-- SPIE Medical Imaging: Image Processing (Session Chair and Program Committee), 2022-Present
+- Session Chair and Program Committee, SPIE Medical Imaging: Image Processing, 2022-Present
 
 ### Awards & Honors
 - Distinguished Investigator Award, Academy of Radiology & Biomedical Imaging Research, 2023
@@ -38,12 +38,12 @@ Dr. Jonghye Woo is an Associate Professor in the Department of Radiology at Harv
 - Scholarship from the Korean Government for MS study, 2005
 
 ### Memberships
-- Senior Member, Institute of Electrical and Electronics Engineers (IEEE)
-- Life Member, SPIE (Society of Photo-Optical Instrumentation Engineers)
-- Full Member, ASA (Acoustical Society of America)
-- Member, APSIPA (Asia Pacific Signal and Information Processing Association)
-- Member, AAAS (American Association for the Advancement of Science)
-- Member, SNMMI (Society of Nuclear Medicine and Molecular Imaging)
-- Member, ISMRM (International Society for Magnetic Resonance in Medicine)
-- Member, MICCAI (Medical Image Computing and Computer Assisted Intervention) Society
+- Senior Member, IEEE
+- Life Member, SPIE
+- Full Member, ASA
 - Full member, Sigma Xi
+- Member, APSIPA 
+- Member, AAAS 
+- Member, SNMMI 
+- Member, ISMRM 
+- Member, MICCAI
