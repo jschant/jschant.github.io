@@ -3,7 +3,7 @@
   description: This study developed a deep learning-based diffusion model to automatically and accurately delineate gross tumor volumes (GTVs) for soft tissue sarcomas using multi-modality medical images. By training on expert-labeled data and modeling inter-reader variability through confidence maps, the model achieved competitive performance across key metrics compared to U-Net models.
   authors: Y. Dong et al.
   link:
-    url: https://pubs.aip.org/asa/jel/article/4/9/095201/3311732/Investigating-muscle-coordination-patterns-with
+    url: https://www.sciencedirect.com/science/article/pii/S2405631625000399
     display: JASA_EL (2024)
   highlight: 1
 
