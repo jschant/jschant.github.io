@@ -1,7 +1,7 @@
 - title: "Gross Tumor Volume Confidence Maps Prediction for Soft Tissue Sarcomas from Multi-Modality Medical Images Using a Diffusion Model"
   image: jasa_el_2024.png
-  description: The human tongue moves through a coordinated sequence of internal muscles working together, with five specific muscles being key to pushing the tongue forward (protrusion). Using specialized MRI techniques and statistical analysis, our team discovered that these muscles work in a predictable sequence to create tongue protrusion, advancing our understanding of how the tongue functions.
-  authors: H. Park et al.
+  description: This study developed a deep learning-based diffusion model to automatically and accurately delineate gross tumor volumes (GTVs) for soft tissue sarcomas using multi-modality medical images. By training on expert-labeled data and modeling inter-reader variability through confidence maps, the model achieved competitive performance across key metrics compared to U-Net models.
+  authors: Y. Dong et al.
   link:
     url: https://pubs.aip.org/asa/jel/article/4/9/095201/3311732/Investigating-muscle-coordination-patterns-with
     display: JASA_EL (2024)
