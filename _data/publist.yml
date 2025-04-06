@@ -8,7 +8,7 @@
   highlight: 1
 
 - title: "Treatment-wise Glioblastoma Survival Inference with Multi-parametric Preoperative MRI"
-  image: phiRo_2025.png
+  image: SPIE_2024_survival.png
   description: We propose a treatment-conditioned regression model to predict glioblastoma patient survival time using preoperative MR scans and treatment information. Unlike previous approaches that ignored treatment effects, our model incorporates treatment types (GTR, STR, or no resection) using adaptive instance normalization within each convolutional layer. This unified approach improves survival prediction accuracy and enables personalized treatment planning, as demonstrated on the BraTS20 dataset.
   authors: X. Liu, N. Shusharina, H. A. Shih, C.-C. J. Kuo, G. El Fakhri, J. Woo
   link:
