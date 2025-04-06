@@ -7,6 +7,15 @@
     display: Physics and Imaging in Radiation Oncology (2025)
   highlight: 1
 
+- title: "Treatment-wise Glioblastoma Survival Inference with Multi-parametric Preoperative MRI"
+  image: phiRo_2025.png
+  description: We propose a treatment-conditioned regression model to predict glioblastoma patient survival time using preoperative MR scans and treatment information. Unlike previous approaches that ignored treatment effects, our model incorporates treatment types (GTR, STR, or no resection) using adaptive instance normalization within each convolutional layer. This unified approach improves survival prediction accuracy and enables personalized treatment planning, as demonstrated on the BraTS20 dataset.
+  authors: X. Liu, N. Shusharina, H. A. Shih, C.-C. J. Kuo, G. El Fakhri, J. Woo
+  link:
+    url: https://arxiv.org/abs/2402.06982
+    display: SPIE Medical Imaging (2024)
+  highlight: 1
+
 - title: "Investigating muscle coordination patterns with Granger causality analysis in protrusive motion from tagged and diffusion MRI"
   image: jasa_el_2024.png
   description: The human tongue moves through a coordinated sequence of internal muscles working together, with five specific muscles being key to pushing the tongue forward (protrusion). Using specialized MRI techniques and statistical analysis, our team discovered that these muscles work in a predictable sequence to create tongue protrusion, advancing our understanding of how the tongue functions.
