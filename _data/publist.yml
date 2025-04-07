@@ -25,6 +25,15 @@
     display: JASA_EL (2024)
   highlight: 1
 
+- title: "Evaluation of few-shot detection of head and neck anatomy in CT"
+  image: jasa_2024.png
+  description: The paper evaluates state-of-the-art few-shot object detection methods for detecting anatomical structures in medical imaging, specifically head and neck anatomy in CT scans. It highlights the challenges posed by variable appearances and limited annotated datasets in medical imaging, motivating the use of few-shot approaches like QA-FewDet, Meta Faster R-CNN, and FCT. Experimental results demonstrate that these methods can accurately detect anatomical structures using novel datasets with few images (1- to 30-shot), showing promising potential for clinical integration.
+  authors: K. Lee et al.
+  link:
+    url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12927/1292716/Evaluation-of-few-shot-detection-of-head-and-neck-anatomy/10.1117/12.3006895.short
+    display: SPIE (2024)
+  highlight: 1
+
 - title: "Quantifying articulatory variations across phonological environments: an atlas-based approach using dynamic magnetic resonance imaging"
   image: jasa_2024.png
   description: This study explores variations in velar consonant production across different phonological environments using dynamic magnetic resonance imaging (MRI).
