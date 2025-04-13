@@ -1,3 +1,12 @@
+- title: "Label Space-Induced Pseudo Label Refinement for Multi-Source Black-Box Domain Adaptation"
+  image: tip_2025.png
+  description: Multi-source Black-box Domain Adaptation using Label space-induced Pseudo label Refinement (LPR) addresses privacy and intellectual property concerns by utilizing only API predictions from multiple source domains, without requiring access to source data or model parameters. The proposed framework introduces a Pseudo label Refinery Network that learns inter-domain relationships through warm-up and refinement phases, with experimental results demonstrating competitive performance compared to state-of-the-art approaches across four benchmark datasets.RetryClaude can make mistakes. Please double-check responses.
+  authors: C. Yoo et al.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S2405631625000399
+    display: IEEE Trans on Image Processing (2025)
+  highlight: 1
+
 - title: "Gross Tumor Volume Confidence Maps Prediction for Soft Tissue Sarcomas from Multi-Modality Medical Images Using a Diffusion Model"
   image: phiRo_2025.png
   description: This study developed a deep learning-based diffusion model to automatically and accurately delineate gross tumor volumes (GTVs) for soft tissue sarcomas using multi-modality medical images. By training on expert-labeled data and modeling inter-reader variability through confidence maps, the model achieved competitive performance across key metrics compared to U-Net models.
