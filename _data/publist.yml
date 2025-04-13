@@ -1,6 +1,6 @@
 - title: "Label Space-Induced Pseudo Label Refinement for Multi-Source Black-Box Domain Adaptation"
   image: tip_2025.png
-  description: Multi-source Black-box Domain Adaptation using Label space-induced Pseudo label Refinement (LPR) addresses privacy and intellectual property concerns by utilizing only API predictions from multiple source domains, without requiring access to source data or model parameters. The proposed framework introduces a Pseudo label Refinery Network that learns inter-domain relationships through warm-up and refinement phases, with experimental results demonstrating competitive performance compared to state-of-the-art approaches across four benchmark datasets.RetryClaude can make mistakes. Please double-check responses.
+  description: Multi-source Black-box Domain Adaptation using Label space-induced Pseudo label Refinement (LPR) addresses privacy and intellectual property concerns by utilizing only API predictions from multiple source domains, without requiring access to source data or model parameters. The proposed framework introduces a Pseudo label Refinery Network that learns inter-domain relationships through warm-up and refinement phases, with experimental results demonstrating competitive performance compared to state-of-the-art approaches across four benchmark datasets.
   authors: C. Yoo et al.
   link:
     url: https://www.sciencedirect.com/science/article/pii/S2405631625000399
