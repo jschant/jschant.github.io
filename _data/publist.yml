@@ -7,6 +7,15 @@
     display: IEEE Trans on Image Processing (2025)
   highlight: 1
 
+- title: "Overall Survival Prediction of Brain Tumor Patients with Multimodal MRI Using Swin UNETR"
+  image: isbi_2025_1.png
+  description: The proposed data-efficient multi-task framework leverages hierarchical segmentation features within advanced Swin UNETR to predict glioblastoma patient survival, integrating multi-scale features to capture detailed spatial information while maintaining computational efficiency. Through segmentation pre-training, feature fine-tuning aligned with survival prediction, and incorporation of age information, the model achieves superior segmentation accuracy and state-of-the-art survival prediction performance on the BraTS dataset, offering a robust solution for clinical prognosis.
+  authors: K. Kim, F. Xing, H.-J. Kong, E. Santarnecchi, H. Shih, T. Bortfeld, G. El Fakhri, X. Liu, J.-H. Choi, J. Woo
+  link:
+    url: https://biomedicalimaging.org/2025/
+    display: IEEE ISBI (2025)
+  highlight: 1
+
 - title: "Gross Tumor Volume Confidence Maps Prediction for Soft Tissue Sarcomas from Multi-Modality Medical Images Using a Diffusion Model"
   image: phiRo_2025.png
   description: This study developed a deep learning-based diffusion model to automatically and accurately delineate gross tumor volumes (GTVs) for soft tissue sarcomas using multi-modality medical images. By training on expert-labeled data and modeling inter-reader variability through confidence maps, the model achieved competitive performance across key metrics compared to U-Net models.
@@ -31,7 +40,7 @@
   authors: H. Park et al.
   link:
     url: https://pubs.aip.org/asa/jel/article/4/9/095201/3311732/Investigating-muscle-coordination-patterns-with
-    display: JASA_EL (2024)
+    display: JASA EL (2024)
   highlight: 1
 
 - title: "Evaluation of few-shot detection of head and neck anatomy in CT"
@@ -40,7 +49,7 @@
   authors: K. Lee et al.
   link:
     url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12927/1292716/Evaluation-of-few-shot-detection-of-head-and-neck-anatomy/10.1117/12.3006895.short
-    display: SPIE (2024)
+    display: SPIE Medical Imaging (2024)
   highlight: 1
 
 - title: "Quantifying articulatory variations across phonological environments: an atlas-based approach using dynamic magnetic resonance imaging"
