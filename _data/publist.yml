@@ -1,3 +1,12 @@
+- title: "Domain-adaptive myocardial segmentation using multi-platform cine magnetic resonance images"
+  image: spie_2025_1.png
+  description: The proposed domain-adaptive framework for myocardial segmentation uses cine MR data from various manufacturers and employs a class-imbalance self-training structure to address domain shift issues between different scanner systems. The framework iteratively refines the segmentation model using pseudo labels generated in the target domain with a class-specific label threshold to re-balance pixel inconsistencies between different label regions, demonstrating improved segmentation quality compared to other methods when tested on adapting a UNet trained with Siemens scanner data to effectively segment Philips scanner data.
+  authors: F. Xing, X. Liu, I. Aganj, P. Kim, B. W. Choi, J. Woo
+  link:
+    url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/134061Q/Domain-adaptive-myocardial-segmentation-using-multi-platform-cine-magnetic-resonance/10.1117/12.3046850.short
+    display: SPIE Medical Imaging (2025)
+  highlight: 1
+
 - title: "Label Space-Induced Pseudo Label Refinement for Multi-Source Black-Box Domain Adaptation"
   image: tip_2025.png
   description: Multi-source Black-box Domain Adaptation using Label space-induced Pseudo label Refinement (LPR) addresses privacy and intellectual property concerns by utilizing only API predictions from multiple source domains, without requiring access to source data or model parameters. The proposed framework introduces a Pseudo label Refinery Network that learns inter-domain relationships through warm-up and refinement phases, with experimental results demonstrating competitive performance compared to state-of-the-art approaches across four benchmark datasets.
