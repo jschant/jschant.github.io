@@ -72,7 +72,7 @@
 
 - title: "Tagged-to-Cine MRI Sequence Synthesis via Light Spatial-Temporal Transformer"
   image: miccai_2024.png
-  description: In this work, we develop a tag-to-cine MRI sequence synthesis approach using spatio-temporal transformer.
+  description: The proposed framework for tagged-to-cine MR sequence synthesis leverages both spatial and temporal information through a light spatial-temporal transformer (LiST2) that exploits local and global attention with relatively lightweight parameters while incorporating directional product relative position-time bias for spatial-temporal correlation awareness. Additionally, a recurrent sliding fine-tuning scheme enhances temporal consistency, resulting in superior performance over comparison methods when evaluated on paired tagged and cine MRI sequences.
   authors: X. Liu, F. Xing, Z. Bian, T. Arias-Vergara, P. Andrea Pérez-Toro, A. Maier, M. Stone, J. Zhuo, J. L. Prince and J. Woo 
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-031-72104-5_67
@@ -237,7 +237,7 @@ Patients with Tongue Cancer Using MRI Data"
 
 - title: "Speech Audio Synthesis from Tagged MRI and Non-negative Matrix Factorization via Plastic Transformer"
   image: miccai_2023_2.png
-  description: In this work, we developed a speech audio synthesis approach from tagged MRI via Plastic transformer.
+  description: The proposed plastic light transformer (PLT) framework translates tongue motion weighting maps derived from tagged MRI to corresponding audio waveforms through directional product relative position bias and single-level spatial pyramid pooling, enabling flexible processing of variable-sized inputs without information loss. To enhance spectrogram realism despite limited training samples, the framework employs pair-wise utterance consistency with Maximum Mean Discrepancy constraint and adversarial training, outperforming conventional models when tested on 29 subjects speaking two utterances.
   authors: X. Liu, F. Xing, M. Stone, J. Zhuo, S. Fels, J. L. Prince, G. El Fakhri, J. Woo
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-031-43990-2_41
