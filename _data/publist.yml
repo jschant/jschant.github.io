@@ -45,7 +45,7 @@
 
 - title: "Point-supervised Brain Tumor Segmentation with Box-prompted MedSAM"
   image: mic_2025.png
-  description: This study introduces an iterative framework to improve point-supervised medical image segmentation by converting point inputs into refined bounding box suggestions and leveraging the MedSAM model's generalizability. By using a semantic box-prompt generator and a prompt-guided spatial refinement module, the researchers demonstrated superior performance in whole brain tumor segmentation compared to traditional point-supervised segmentation methods.
+  description: This study introduces an iterative framework to improve point-supervised medical image segmentation by converting point inputs into refined bounding box suggestions and leveraging the MedSAM model's generalizability. By using a semantic box-prompt generator and a prompt-guided spatial refinement module, we demonstrated superior performance in whole brain tumor segmentation compared to traditional point-supervised segmentation methods.
   authors: X. Liu et al.
   link:
     url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11312622/pdf/nihpp-2408.00706v1.pdf
