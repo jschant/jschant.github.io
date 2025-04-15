@@ -289,6 +289,15 @@ Patients with Tongue Cancer Using MRI Data"
     display: IEEE J. Biomed. Health Informatics (2022)
   highlight: 1
 
+- title: "Feasibility study of clinical target volume definition for soft-tissue sarcoma using muscle fiber orientations derived from diffusion tensor imaging"
+  image: pmb_2022.png
+  description: This study explores using diffusion tensor MRI to derive muscle fiber orientations for defining clinical target volume boundaries in soft-tissue sarcoma, leveraging machine learning to auto-segment thigh muscles and develop an anisotropic modeling approach. By comparing fiber orientations across different muscles and subjects, the researchers demonstrated a promising method for more precise tumor boundary delineation that could improve treatment planning for sarcoma patients.
+  authors: Shusharina et al.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35817048/
+    display: Physics in Medicine and Biology (2022)
+  highlight: 1
+  
 - title: "Unsupervised Black-Box Model Domain Adaptation for Brain Tumor Segmentation"
   image: frontier_2022.png
   description: Unsupervised domain adaptation (UDA) transfers knowledge from a labeled source domain to unlabeled target domains, addressing the challenge of labeling in new domains. To overcome privacy concerns in cross-center collaborations, we propose a UDA framework using a black-box segmentation model with knowledge distillation and unsupervised entropy minimization, validated on multiple datasets and demonstrating potential in clinical settings.
