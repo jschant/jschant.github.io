@@ -307,6 +307,15 @@ Patients with Tongue Cancer Using MRI Data"
     display: IEEE J. Biomed. Health Informatics (2022)
   highlight: 1
 
+- title: "Automation of generative adversarial network-based synthetic data-augmentation for maximizing the diagnostic performance with paranasal imaging"
+  image: jbhi_2022.png
+  description: This study addresses the lack of systematic guidelines for determining optimal sample sizes in data augmentation by proposing an automated pipeline using generative adversarial networks (GAN) to enhance diagnostic performance with limited datasets. By demonstrating improved diagnostic parameters in chronic sinusitis radiographs, the research offers a novel approach to overcome training data limitations and potentially assist radiologists in more accurate diagnoses.
+  authors: H.-J. Kong et al.
+  link:
+    url: https://www.nature.com/articles/s41598-022-22222-z
+    display: Scientific Reports (2022)
+  highlight: 1
+
 - title: "Feasibility study of clinical target volume definition for soft-tissue sarcoma using muscle fiber orientations derived from diffusion tensor imaging"
   image: pmb_2022.png
   description: This study explores using diffusion tensor MRI to derive muscle fiber orientations for defining clinical target volume boundaries in soft-tissue sarcoma, leveraging machine learning to auto-segment thigh muscles and develop an anisotropic modeling approach. By comparing fiber orientations across different muscles and subjects, the researchers demonstrated a promising method for more precise tumor boundary delineation that could improve treatment planning for sarcoma patients.
