@@ -18,7 +18,7 @@
 
 - title: "Contrast-enhanced image-guided learning for nasopharyngeal carcinoma diagnosis using non-contrast MRI"
   image: spie_2025_2.png
-  description: Contrast-enhanced T1-weighted MRI using gadolinium-based contrast agents has been crucial for nasopharyngeal carcinoma diagnosis, but safety concerns have prompted research into alternative methods. This study developed a diagnostic model using non-contrast images that achieved high accuracy comparable to contrast-enhanced imaging, suggesting a promising contrast-free approach for NPC detection.RetryClaude can make mistakes. Please double-check responses.
+  description: Contrast-enhanced T1-weighted MRI using gadolinium-based contrast agents has been crucial for nasopharyngeal carcinoma diagnosis, but safety concerns have prompted research into alternative methods. This study developed a diagnostic model using non-contrast images that achieved high accuracy comparable to contrast-enhanced imaging, suggesting a promising contrast-free approach for NPC detection.
   authors: Z. Li et al.
   link:
     url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13407/134070B/Contrast-enhanced-image-guided-learning-for-nasopharyngeal-carcinoma-diagnosis-using/10.1117/12.3046863.short
