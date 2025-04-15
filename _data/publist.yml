@@ -308,7 +308,7 @@ Patients with Tongue Cancer Using MRI Data"
   highlight: 1
 
 - title: "Automation of generative adversarial network-based synthetic data-augmentation for maximizing the diagnostic performance with paranasal imaging"
-  image: jbhi_2022.png
+  image: sp_2022.png
   description: This study addresses the lack of systematic guidelines for determining optimal sample sizes in data augmentation by proposing an automated pipeline using generative adversarial networks (GAN) to enhance diagnostic performance with limited datasets. By demonstrating improved diagnostic parameters in chronic sinusitis radiographs, the research offers a novel approach to overcome training data limitations and potentially assist radiologists in more accurate diagnoses.
   authors: H.-J. Kong et al.
   link:
