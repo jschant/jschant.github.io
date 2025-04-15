@@ -7,6 +7,15 @@
     display: SPIE Medical Imaging (2025)
   highlight: 1
 
+- title: "Semi-supervised bone marrow lesion detection from knee MRI segmentation using mask inpainting models"
+  image: spie_2025_3.png
+  description: The study proposes a semi-supervised local anomaly detection method using mask inpainting models to effectively identify bone marrow lesions (BMLs) in high-resolution knee MRIs, demonstrating superior performance compared to existing methods. By integrating 3D femur bone segmentation, mask inpainting, and post-processing techniques, the research shows promising results in BML detection, with performance significantly improving on higher-resolution images and potentially advancing imaging-based osteoarthritis research.
+  authors: S. Qin, M. Zhang, J. Shan, T. Shin, J. Woo, F. Xing
+  link:
+    url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/134060C/Semi-supervised-bone-marrow-lesion-detection-from-knee-MRI-segmentation/10.1117/12.3047033.short
+    display: SPIE Medical Imaging (2025)
+  highlight: 1
+
 - title: "Contrast-enhanced image-guided learning for nasopharyngeal carcinoma diagnosis using non-contrast MRI"
   image: spie_2025_2.png
   description: Contrast-enhanced T1-weighted MRI using gadolinium-based contrast agents has been crucial for nasopharyngeal carcinoma diagnosis, but safety concerns have prompted research into alternative methods. This study developed a diagnostic model using non-contrast images that achieved high accuracy comparable to contrast-enhanced imaging, suggesting a promising contrast-free approach for NPC detection.RetryClaude can make mistakes. Please double-check responses.
