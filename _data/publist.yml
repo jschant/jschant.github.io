@@ -262,15 +262,6 @@ Patients with Tongue Cancer Using MRI Data"
     display: Medical Image Analysis (2023)
   highlight: 1
   
-- title: "Optimization of three-dimensional dynamic speech MRI: Poisson-disc under sampling and locally higher-rank reconstruction through partial separability model with regional optimized temporal basis"
-  image: mrm_2023.png
-  description: We improved the spatiotemporal qualities of images and dynamics of speech MRI through an improved data sampling and image reconstruction approach.
-  authors: R. Jin, Y. Li, R. K. Shosted, F. Xing, I. Gilbert, J. L. Perry, J. Woo, Z.-P. Liang, B. P. Sutton
-  link:
-    url: https://onlinelibrary.wiley.com/doi/10.1002/mrm.29812
-    display: Magnetic Resonance in Medicine (2023)
-  highlight: 1
-
 - title: "Attentive Continuous Generative Self-training for Unsupervised Domain Adaptive Medical Image Translation"
   image: media_2023.png
   description: In this work, we developed a generative self-training framework for domain adaptive image translation with continuous value prediction and regression objectives.
@@ -316,6 +307,15 @@ Patients with Tongue Cancer Using MRI Data"
     display: IEEE J. Biomed. Health Informatics (2022)
   highlight: 1
 
+- title: "Enhancing linguistic research through 2‐mm isotropic 3D dynamic speech MRI optimized by sparse temporal sampling and low‐rank reconstruction"
+  image: mrm_2023.png
+  description: This study focuses on achieving near-isotropic 3D dynamic imaging with high frame rates through sparse temporal sampling and region-of-interest based coil compression, resulting in 1.875 × 1.875 × 2 mm³ spatial resolution with 35.6 fps temporal resolution across a 64-mm coverage.
+  authors: R. Jin, R. K. Shosted, F. Xing, I. Gilbert, J. L. Perry, J. Woo, Z.-P. Liang, B. P. Sutton
+  link:
+    url: https://onlinelibrary.wiley.com/doi/10.1002/mrm.29486
+    display: Magnetic Resonance in Medicine (2022)
+  highlight: 1
+  
 - title: "Automation of generative adversarial network-based synthetic data-augmentation for maximizing the diagnostic performance with paranasal imaging"
   image: sp_2022.png
   description: This study addresses the lack of systematic guidelines for determining optimal sample sizes in data augmentation by proposing an automated pipeline using generative adversarial networks (GAN) to enhance diagnostic performance with limited datasets. By demonstrating improved diagnostic parameters in chronic sinusitis radiographs, the research offers a novel approach to overcome training data limitations and potentially assist radiologists in more accurate diagnoses.
