@@ -63,7 +63,7 @@
 
 - title: "Optimization of 3D dynamic speech MRI: Poisson-disc undersampling and locally higher-rank reconstruction through partial separability model with regional optimized temporal basis"
   image: mrm_2024.png
-  description: The research proposes an improved dynamic speech MRI method using Poisson-disc sampling combined with a locally higher-rank model and regional-optimized temporal basis, which better represents the distinct temporal characteristics of oral and static regions. This approach significantly improves spatiotemporal image quality while reducing overall acquisition time by 50%, achieving 3D dynamic speech MRI with 2-mm isotropic spatial resolution, 25 ms temporal resolution, and full vocal tract coverage.  
+  description: This work proposes an improved dynamic speech MRI method using Poisson-disc sampling combined with a locally higher-rank model and regional-optimized temporal basis, which better represents the distinct temporal characteristics of oral and static regions. This approach significantly improves spatiotemporal image quality while reducing overall acquisition time by 50%, achieving 3D dynamic speech MRI with 2-mm isotropic spatial resolution.  
   authors: R. Jin, Y. Li, R. K. Shosted, F. Xing, I. Gilbert, J. L. Perry, J. Woo, Z.-P. Liang, B. P. Sutton
   link:
     url: https://onlinelibrary.wiley.com/doi/10.1002/mrm.29812
