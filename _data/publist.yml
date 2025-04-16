@@ -61,6 +61,14 @@
     display: Physics and Imaging in Radiation Oncology (2025)
   highlight: 1
 
+- title: "Optimization of 3D dynamic speech MRI: Poisson-disc undersampling and locally higher-rank reconstruction through partial separability model with regional optimized temporal basis."
+  image: mrm_2024.png
+  description: The research proposes an improved dynamic speech MRI method using Poisson-disc sampling combined with a locally higher-rank model and regional-optimized temporal basis, which better represents the distinct temporal characteristics of oral and static regions. This approach significantly improves spatiotemporal image quality while reducing overall acquisition time by 50%, achieving 3D dynamic speech MRI with 2-mm isotropic spatial resolution, 25 ms temporal resolution, and full vocal tract coverage.  authors: R. Jin, Y. Li, R. K. Shosted, F. Xing, I. Gilbert, J. L. Perry, J. Woo, Z.-P. Liang, B. P. Sutton
+  link:
+    url: https://onlinelibrary.wiley.com/doi/10.1002/mrm.29812
+    display: Magnetic Resonance in Medicine (2024)
+  highlight: 1
+  
 - title: "Point-supervised Brain Tumor Segmentation with Box-prompted MedSAM"
   image: mic_2025.png
   description: This study introduces an iterative framework to improve point-supervised medical image segmentation by converting point inputs into refined bounding box suggestions and leveraging the MedSAM model's generalizability. By using a semantic box-prompt generator and a prompt-guided spatial refinement module, we demonstrated superior performance in whole brain tumor segmentation compared to traditional point-supervised segmentation methods.
