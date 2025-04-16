@@ -361,6 +361,15 @@ Patients with Tongue Cancer Using MRI Data"
     display: APSIPA Trans on Signal and Information Processing (2022)
   highlight: 1
 
+- title: "Subtype-aware Unsupervised Domain Adaptation for Medical Diagnosis"
+  image: aaai_2021.png
+  description: This research proposes a subtype-aware dynamic unsupervised domain adaptation approach that improves cross-domain alignment by discovering and leveraging fine-grained subtype structures within classes, enforcing both class-wise separation and subtype-wise compactness. The method adaptively identifies subtypes with or without prior information on subtype numbers, recognizing that unlabeled subtypes within a class can diverge from each other while maintaining local proximity, achieving promising results on medical diagnosis tasks.
+  authors: X. Liu et al.
+  link:
+    url: https://arxiv.org/abs/2101.00318
+    display: AAAI (2021)
+  highlight: 1
+  
 - title: "Adversarial unsupervised domain adaptation with conditional and label shift: Infer, align and iterate"
   image: iccv_2021.png
   description: This work proposed an adversarial unsupervised domain adaptation with conditional and label shift.
