@@ -7,15 +7,6 @@
     display: SPIE Medical Imaging (2025)
   highlight: 1
 
-- title: "DRIMET: Deep Registration for 3D Incompressible Motion Estimation in Tagged-MRI with Application to the Tongue"
-  image: midl_2023.png
-  description: This paper presents a novel unsupervised phase-based 3D motion estimation technique for tagged MRI that addresses traditional challenges through two key innovations: a sinusoidal transformation of harmonic phase input and a Jacobian determinant-based learning objective for incompressibility. 
-  authors: J. Bian et al.
-  link:
-    url: https://arxiv.org/abs/2301.07234
-    display: Medical Imaging with Deep Learning (2023)
-  highlight: 1
-
 - title: "Semi-supervised bone marrow lesion detection from knee MRI segmentation using mask inpainting models"
   image: spie_2025_3.png
   description: The study proposes a semi-supervised local anomaly detection method using mask inpainting models to effectively identify bone marrow lesions (BMLs) in high-resolution knee MRIs, demonstrating superior performance compared to existing methods. By integrating 3D femur bone segmentation, mask inpainting, and post-processing techniques, the research shows promising results in BML detection, with performance significantly improving on higher-resolution images and potentially advancing imaging-based osteoarthritis research.
