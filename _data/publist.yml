@@ -224,15 +224,6 @@ Patients with Tongue Cancer Using MRI Data"
     display: MICCAI MTSAIL (2023)
   highlight: 1
 
-- title: "DRIMET: Deep Registration for 3D Incompressible Motion Estimation in Tagged-MRI with Application to the Tongue"
-  image: midl_2023.png
-  description: This paper presents a novel unsupervised phase-based 3D motion estimation technique for tagged MRI that addresses traditional challenges through two key innovations: a sinusoidal transformation of harmonic phase input and a Jacobian determinant-based learning objective for incompressibility. When tested on human tongue motion during speech, the method demonstrated superior performance compared to existing approaches, with improvements in speed, robustness to tag fading, and ability to handle large tongue movements in both healthy subjects and glossectomy patients.
-  authors: Z. Bian et al.
-  link:
-    url: https://openreview.net/pdf?id=jkSC4UHHVzy
-    display: MIDL (2023)
-  highlight: 1
-  
 - title: "Preliminary Development of an MRI Atlas for Application to Cleft Care: Findings and Future Recommendations"
   image: mrm_2023.png
   description: We introduce a highly innovative imaging method to study the complex velopharyngeal system and introduce the potential future clinical applications of a VP atlas in cleft care.
