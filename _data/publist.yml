@@ -16,15 +16,6 @@
     display: SPIE Medical Imaging (2025)
   highlight: 1
 
-- title: "DRIMET: Deep Registration for 3D Incompressible Motion Estimation in Tagged-MRI with Application to the Tongue"
-  image: midl_2023.png
-  description: This paper presents a novel unsupervised phase-based 3D motion estimation technique for tagged MRI that addresses traditional challenges through two key innovations, including a sinusoidal transformation of harmonic phase input and a Jacobian determinant-based learning objective for incompressibility. When tested on human tongue motion during speech, the method demonstrated superior performance compared to existing approaches, with improvements in speed, robustness to tag fading, and ability to handle large tongue movements.
-  authors: J. Bian et al.
-  link:
-    url: https://arxiv.org/abs/2301.07234
-    display: MIDL (2023)
-  highlight: 1
-
 - title: "Contrast-enhanced image-guided learning for nasopharyngeal carcinoma diagnosis using non-contrast MRI"
   image: spie_2025_2.png
   description: Contrast-enhanced T1-weighted MRI using gadolinium-based contrast agents has been crucial for nasopharyngeal carcinoma diagnosis, but safety concerns have prompted research into alternative methods. This study developed a diagnostic model using non-contrast images that achieved high accuracy comparable to contrast-enhanced imaging, suggesting a promising contrast-free approach for NPC detection.
@@ -215,6 +206,15 @@ Patients with Tongue Cancer Using MRI Data"
     display: IEEE Trans on Biomedical Engineering (2023)
   highlight: 1
 
+- title: "DRIMET: Deep Registration for 3D Incompressible Motion Estimation in Tagged-MRI with Application to the Tongue"
+  image: midl_2023.png
+  description: This paper presents a novel unsupervised phase-based 3D motion estimation technique for tagged MRI that addresses traditional challenges through two key innovations, including a sinusoidal transformation of harmonic phase input and a Jacobian determinant-based learning objective for incompressibility. When tested on human tongue motion during speech, the method demonstrated superior performance compared to existing approaches, with improvements in speed, robustness to tag fading, and ability to handle large tongue movements.
+  authors: J. Bian et al.
+  link:
+    url: https://arxiv.org/abs/2301.07234
+    display: MIDL (2023)
+  highlight: 1
+  
 - title: "Incremental Learning for Heterogeneous Structure Segmentation in Brain Tumor MRI"
   image: miccai_2023.png
   description: In this work, we seek to progressively evolve an “off-the-shelf” trained segmentation model to diverse datasets with additional anatomical categories in a unified manner.  
