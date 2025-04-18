@@ -208,7 +208,7 @@ Patients with Tongue Cancer Using MRI Data"
 
 - title: "DRIMET: Deep Registration for 3D Incompressible Motion Estimation in Tagged-MRI with Application to the Tongue"
   image: midl_2023.png
-  description: This paper presents a novel unsupervised phase-based 3D motion estimation technique for tagged MRI that addresses traditional challenges through two key innovations, including a sinusoidal transformation of harmonic phase input and a Jacobian determinant-based learning objective for incompressibility. When tested on human tongue motion during speech, the method demonstrated superior performance compared to existing approaches, with improvements in speed, robustness to tag fading, and ability to handle large tongue movements.
+  description: This paper presents a novel unsupervised phase-based 3D motion estimation technique for tagged MRI that addresses traditional challenges through two key innovations, including a sinusoidal transformation of harmonic phase input and a Jacobian determinant-based learning objective for incompressibility.
   authors: J. Bian et al.
   link:
     url: https://arxiv.org/abs/2301.07234
