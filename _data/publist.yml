@@ -7,6 +7,15 @@
     display: SPIE Medical Imaging (2025)
   highlight: 1
 
+- title: "Domain-adaptive myocardial segmentation using multi-platform cine magnetic resonance images"
+  image: midl_2023.png
+  description: The proposed domain-adaptive framework for myocardial segmentation uses cine MR data from various manufacturers and employs a class-imbalance self-training structure to address domain shift issues between different scanner systems. The framework iteratively refines the segmentation model using pseudo labels generated in the target domain with a class-specific label threshold to re-balance pixel inconsistencies between different label regions, demonstrating improved segmentation quality compared to other methods when tested on adapting a UNet trained with Siemens scanner data to effectively segment Philips scanner data.
+  authors: J. Bian et al.
+  link:
+    url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/134061Q/Domain-adaptive-myocardial-segmentation-using-multi-platform-cine-magnetic-resonance/10.1117/12.3046850.short
+    display: SPIE Medical Imaging (2025)
+  highlight: 1
+
 - title: "Semi-supervised bone marrow lesion detection from knee MRI segmentation using mask inpainting models"
   image: spie_2025_3.png
   description: The study proposes a semi-supervised local anomaly detection method using mask inpainting models to effectively identify bone marrow lesions (BMLs) in high-resolution knee MRIs, demonstrating superior performance compared to existing methods. By integrating 3D femur bone segmentation, mask inpainting, and post-processing techniques, the research shows promising results in BML detection, with performance significantly improving on higher-resolution images and potentially advancing imaging-based osteoarthritis research.
