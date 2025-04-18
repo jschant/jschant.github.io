@@ -13,7 +13,7 @@
   authors: J. Bian et al.
   link:
     url: https://arxiv.org/abs/2301.07234
-    display: MIDL (2023)
+    display: Medical Imaging with Deep Learning (2023)
   highlight: 1
 
 - title: "Semi-supervised bone marrow lesion detection from knee MRI segmentation using mask inpainting models"
