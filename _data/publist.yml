@@ -9,11 +9,11 @@
 
 - title: "DRIMET: Deep Registration for 3D Incompressible Motion Estimation in Tagged-MRI with Application to the Tongue"
   image: midl_2023.png
-  description: The proposed domain-adaptive framework for myocardial segmentation uses cine MR data from various manufacturers and employs a class-imbalance self-training structure to address domain shift issues between different scanner systems. The framework iteratively refines the segmentation model using pseudo labels generated in the target domain with a class-specific label threshold to re-balance pixel inconsistencies between different label regions, demonstrating improved segmentation quality compared to other methods when tested on adapting a UNet trained with Siemens scanner data to effectively segment Philips scanner data.
+  description: This paper presents a novel unsupervised phase-based 3D motion estimation technique for tagged MRI that addresses traditional challenges through two key innovations: a sinusoidal transformation of harmonic phase input and a Jacobian determinant-based learning objective for incompressibility. 
   authors: J. Bian et al.
   link:
-    url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/134061Q/Domain-adaptive-myocardial-segmentation-using-multi-platform-cine-magnetic-resonance/10.1117/12.3046850.short
-    display: SPIE Medical Imaging (2025)
+    url: https://arxiv.org/abs/2301.07234
+    display: MIDL (2023)
   highlight: 1
 
 - title: "Semi-supervised bone marrow lesion detection from knee MRI segmentation using mask inpainting models"
