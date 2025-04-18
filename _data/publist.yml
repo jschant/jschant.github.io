@@ -223,7 +223,7 @@ Patients with Tongue Cancer Using MRI Data"
     url: https://openreview.net/pdf?id=jkSC4UHHVzy
     display: MIDL (2023)
   highlight: 1
-
+  
 - title: "Outlier Robust Disease Classification via Stochastic Confidence Network"
   image: mtsail.png
   description: The Stochastic Confidence Network (SCN) is a novel deep learning model designed to handle outliers in medical imaging, ensuring accurate and robust diagnoses. Experimental results on databases for breast tumors and Alzheimer's disease demonstrated that SCN significantly improves diagnostic performance by eliminating irrelevant outlier data and resampling outliers into a typical distribution, outperforming state-of-the-art models.
