@@ -19,9 +19,9 @@
 - title: "DRIMET: Deep Registration for 3D Incompressible Motion Estimation in Tagged-MRI with Application to the Tongue"
   image: midl_2023.png
   description: The study proposes a semi-supervised local anomaly detection method using mask inpainting models to effectively identify bone marrow lesions (BMLs) in high-resolution knee MRIs, demonstrating superior performance compared to existing methods. By integrating 3D femur bone segmentation, mask inpainting, and post-processing techniques, the research shows promising results in BML detection, with performance significantly improving on higher-resolution images and potentially advancing imaging-based osteoarthritis research.
-  authors: S. Qin, M. Zhang, J. Shan, T. Shin, J. Woo, F. Xing
+  authors: J. Bian et al.
   link:
-    url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/134060C/Semi-supervised-bone-marrow-lesion-detection-from-knee-MRI-segmentation/10.1117/12.3047033.short
+    url: https://arxiv.org/abs/2301.07234
     display: MIDL (2023)
   highlight: 1
 
