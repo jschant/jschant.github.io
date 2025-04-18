@@ -7,7 +7,7 @@
     display: SPIE Medical Imaging (2025)
   highlight: 1
 
-- title: "Domain-adaptive myocardial segmentation using multi-platform cine magnetic resonance images"
+- title: "DRIMET: Deep Registration for 3D Incompressible Motion Estimation in Tagged-MRI with Application to the Tongue"
   image: midl_2023.png
   description: The proposed domain-adaptive framework for myocardial segmentation uses cine MR data from various manufacturers and employs a class-imbalance self-training structure to address domain shift issues between different scanner systems. The framework iteratively refines the segmentation model using pseudo labels generated in the target domain with a class-specific label threshold to re-balance pixel inconsistencies between different label regions, demonstrating improved segmentation quality compared to other methods when tested on adapting a UNet trained with Siemens scanner data to effectively segment Philips scanner data.
   authors: J. Bian et al.
