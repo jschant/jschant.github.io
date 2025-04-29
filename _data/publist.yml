@@ -396,6 +396,15 @@ Patients with Tongue Cancer Using MRI Data"
     url: https://arxiv.org/abs/2101.05434
     display: ISBI (2021)
   highlight: 1
+
+- title: "Dual-Cycle Constrained Bijective Vae-Gan For Tagged-To-Cine Magnetic Resonance Image Synthesis"
+  image: isbi_2021.png
+  description: The proposed dual-cycle constrained bijective VAE-GAN approach synthesizes high-resolution cine MR images directly from tagged MR images, eliminating the need for additional acquisitions and reducing scan time and cost. Validated on over 3,700 paired slices from twenty healthy subjects, the method demonstrates superior performance compared to alternatives while maintaining workflow compatibility for subsequent motion analyses.
+  authors: X. Liu et al.
+  link:
+    url: https://ieeexplore.ieee.org/document/9433852
+    display: ISBI (2021)
+  highlight: 1
   
 - title: "Subtype-aware Unsupervised Domain Adaptation for Medical Diagnosis"
   image: aaai_2021.png
