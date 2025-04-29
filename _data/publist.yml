@@ -316,6 +316,15 @@ Patients with Tongue Cancer Using MRI Data"
     display: IEEE J. Biomed. Health Informatics (2022)
   highlight: 1
 
+- title: "Self-Semantic Contour Adaptation for Cross Modality Brain Tumor Segmentation"
+  image: isbi_2022_1.png
+  description: This framework leverages edge information to bridge cross-domain gaps in brain tumor segmentation by jointly training contouring and semantic networks with adversarial learning. Validated on BraTS2018, it outperforms competing methods for cross-modality MRI segmentation
+  authors: X. Liu, F. Xing, G. El Fakhri, J. Woo
+  link:
+    url: https://arxiv.org/abs/2201.05022
+    display: IEEE ISBI (2022)
+  highlight: 1
+
 - title: "Enhancing linguistic research through 2‐mm isotropic 3D dynamic speech MRI optimized by sparse temporal sampling and low‐rank reconstruction"
   image: mrm_2023.png
   description: This study focuses on achieving near-isotropic 3D dynamic imaging with high frame rates through sparse temporal sampling and region-of-interest based coil compression, resulting in 1.875 × 1.875 × 2 mm³ spatial resolution with 35.6 fps temporal resolution across a 64-mm coverage.
