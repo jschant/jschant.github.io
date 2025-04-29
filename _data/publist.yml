@@ -405,6 +405,15 @@ Patients with Tongue Cancer Using MRI Data"
     url: https://ieeexplore.ieee.org/document/9433852
     display: ISBI (2021)
   highlight: 1
+
+- title: "Domain Generalization under Conditional and Label Shifts via Variational Bayesian Inference"
+  image: ijcai_2021.png
+  description: The proposed variational Bayesian framework for domain generalization aligns conditional distributions in latent space while accounting for label shifts, unlike conventional methods that assume label distribution invariance. Experiments demonstrate significant improvements in cross-domain accuracy across multiple benchmarks, confirming the approach's robustness to realistic domain shifts.
+  authors: X. Liu et al.
+  link:
+    url: https://arxiv.org/abs/2107.10931
+    display: IJCAI (2021)
+  highlight: 1
   
 - title: "Subtype-aware Unsupervised Domain Adaptation for Medical Diagnosis"
   image: aaai_2021.png
