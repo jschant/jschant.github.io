@@ -148,7 +148,7 @@
   authors: X. Liu, F. Xing, J. You, J. Lu, C.-C. J. Kuo, G. El Fakhri, J. Woo
   link:
     url: https://arxiv.org/abs/2208.07754
-    display: IEEE Transactions on Neural Networks and Learning Systems (TNNLS) (2024)
+    display: IEEE Trans on Neural Networks and Learning Systems (TNNLS) (2024)
   highlight: 1
 
 - title: "Is Registering Raw Tagged-MR Enough for Strain Estimation in the Era of Deep Learning?"
@@ -162,7 +162,7 @@
 
 - title: "Contrastive Learning Approach for Assessment of Phonological Precision in
 Patients with Tongue Cancer Using MRI Data"
-  image: spie_2024_2.png
+  image: interspeech_2024.png
   description: We propose a contrastive learning approach that improves the detection of phonological classes from MRI data when acoustic signals are unavailable, raising frame-wise recognition from an f1 of 0.74 to 0.85. Applied to clinical assessments in tongue cancer patients, this method demonstrates promising results for speech disorder evaluation, potentially enhancing patient outcomes.
   authors: T. Arias-Vergara, P. Andrea Perez-Toro, X. Liu, F. Xing, M. Stone, J. Zhuo, J. L. Prince, M. Schuster, E. Noth, J. Woo, A. Maier
   link:
