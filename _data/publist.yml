@@ -26,7 +26,7 @@
   highlight: 1
 
 - title: "Contrast-enhanced image-guided learning for nasopharyngeal carcinoma diagnosis using non-contrast MRI"
-  image: spie_2025_2.png
+  image: spie_2025_y.png
   description: Contrast-enhanced T1-weighted MRI using gadolinium-based contrast agents has been crucial for nasopharyngeal carcinoma diagnosis, but safety concerns have prompted research into alternative methods. This study developed a diagnostic model using non-contrast images that achieved high accuracy comparable to contrast-enhanced imaging, suggesting a promising contrast-free approach for NPC detection.
   authors: Z. Li et al.
   link:
@@ -70,6 +70,15 @@
     display: Physics and Imaging in Radiation Oncology (2025)
   highlight: 1
 
+- title: "Speech Motion Anomaly Detection via Cross-Modal Translation of 4D Motion Fields from Tagged MRI"
+  image: spie_2024_y.png
+  description: This study develops a framework that detects speech anomalies by using a deep cross-modal translator trained exclusively on healthy individuals' data to bridge 4D motion fields from tagged MRI with speech spectrograms. The system successfully identifies abnormal speech patterns in tongue cancer patients by leveraging the translator's limited generalization to out-of-distribution patterns.
+  authors: X. Liu et al.
+  link:
+    url: https://arxiv.org/abs/2402.06984
+    display: SPIE Medical Imaging (2024)
+  highlight: 1
+  
 - title: "Optimization of 3D dynamic speech MRI: Poisson-disc undersampling and locally higher-rank reconstruction through partial separability model with regional optimized temporal basis"
   image: mrm_2024.png
   description: This work proposes an improved dynamic speech MRI method using Poisson-disc sampling combined with a locally higher-rank model and regional-optimized temporal basis, which better represents the distinct temporal characteristics of oral and static regions. This approach significantly improves spatiotemporal image quality while reducing overall acquisition time by 50%, achieving 3D dynamic speech MRI with 2-mm isotropic spatial resolution.  
