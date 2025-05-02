@@ -1,5 +1,5 @@
 - title: "Modeling Inter-reader Variability in Clinical Target Volume Delineation for Soft Tissue Sarcomas Using Diffusion Model"
-  image: phiRo_2025.png
+  image: mp_2025.png
   description: This study developed a deep learning-based diffusion model to automatically and accurately delineate clinical target volumes (CTVs) for soft tissue sarcomas using multi-modality medical images. By training on expert-labeled data and modeling inter-reader variability through confidence maps, the model achieved competitive performance across key metrics compared to U-Net models.
   authors: Y. Dong et al.
   link:
