@@ -423,6 +423,15 @@ Patients with Tongue Cancer Using MRI Data"
     url: https://arxiv.org/abs/2107.10931
     display: IJCAI (2021)
   highlight: 1
+
+- title: "4D magnetic resonance imaging atlas construction using temporally aligned audio waveforms in speech"
+  image: jasa_2021.png
+  description: This paper proposes a post-processing workflow that temporally aligns different MR datasets using audio waveforms for matching patterns, applies deformable registration to resample image data, and constructs a four-dimensional dynamic MR speech atlas from four subjects, with similarity tests confirming improved quality for groupwise analysis.
+  authors: F. Xing et al.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34852570/
+    display: JASA (2021)
+  highlight: 1
   
 - title: "Subtype-aware Unsupervised Domain Adaptation for Medical Diagnosis"
   image: aaai_2021.png
