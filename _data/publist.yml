@@ -1,3 +1,12 @@
+- title: "Modeling Inter-reader Variability in Clinical Target Volume Delineation for Soft Tissue Sarcomas Using Diffusion Model"
+  image: phiRo_2025.png
+  description: This study developed a deep learning-based diffusion model to automatically and accurately delineate clinical target volumes (CTVs) for soft tissue sarcomas using multi-modality medical images. By training on expert-labeled data and modeling inter-reader variability through confidence maps, the model achieved competitive performance across key metrics compared to U-Net models.
+  authors: Y. Dong et al.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S2405631625000399
+    display: Medical Physics (2025)
+  highlight: 1
+
 - title: "Domain-adaptive myocardial segmentation using multi-platform cine magnetic resonance images"
   image: spie_2025_1.png
   description: The proposed domain-adaptive framework for myocardial segmentation uses cine MR data from various manufacturers and employs a class-imbalance self-training structure to address domain shift issues between different scanner systems. The framework iteratively refines the segmentation model using pseudo labels generated in the target domain with a class-specific label threshold to re-balance pixel inconsistencies between different label regions, demonstrating improved segmentation quality compared to other methods when tested on adapting a UNet trained with Siemens scanner data to effectively segment Philips scanner data.
