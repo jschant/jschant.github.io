@@ -412,7 +412,7 @@ Patients with Tongue Cancer Using MRI Data"
   authors: X. Liu et al.
   link:
     url: https://arxiv.org/abs/2101.05434
-    display: ISBI (2021)
+    display: IEEE ISBI (2021)
   highlight: 1
 
 - title: "Dual-Cycle Constrained Bijective Vae-Gan For Tagged-To-Cine Magnetic Resonance Image Synthesis"
@@ -421,7 +421,7 @@ Patients with Tongue Cancer Using MRI Data"
   authors: X. Liu et al.
   link:
     url: https://ieeexplore.ieee.org/document/9433852
-    display: ISBI (2021)
+    display: IEEE ISBI (2021)
   highlight: 1
 
 - title: "Domain Generalization under Conditional and Label Shifts via Variational Bayesian Inference"
