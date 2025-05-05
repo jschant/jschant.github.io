@@ -55,7 +55,7 @@
 - title: "Overall Survival Prediction of Brain Tumor Patients with Multimodal MRI Using Swin UNETR"
   image: isbi_2025_1.png
   description: The proposed data-efficient multi-task framework leverages hierarchical segmentation features within advanced Swin UNETR to predict glioblastoma patient survival, integrating multi-scale features to capture detailed spatial information while maintaining computational efficiency. Through segmentation pre-training, feature fine-tuning aligned with survival prediction, and incorporation of age information, the model achieves superior segmentation accuracy and state-of-the-art survival prediction performance on the BraTS dataset, offering a robust solution for clinical prognosis.
-  authors: K. Kim, F. Xing, H.-J. Kong, E. Santarnecchi, H. Shih, T. Bortfeld, G. El Fakhri, X. Liu, J.-H. Choi, J. Woo
+  authors: G.-H. Kim, F. Xing, H.-J. Kong, E. Santarnecchi, H. Shih, T. Bortfeld, G. El Fakhri, X. Liu, J.-H. Choi, J. Woo
   link:
     url: https://biomedicalimaging.org/2025/
     display: IEEE ISBI (2025)
