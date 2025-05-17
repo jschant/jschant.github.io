@@ -48,16 +48,16 @@
   description: This study proposes an unsupervised framework for coronary lesion detection in computed tomography coronary angiography (CTCA) that uses vessel linearization to generate small linear volume patches and trains a deep autoencoder model exclusively on normal patches to detect anomalies without requiring lesion location labels. Results demonstrate high accuracy on a public dataset with 97.5% accuracy using per-patient average reconstruction error and 85% using the number of patches with high reconstruction error, offering a scalable solution for coronary artery disease detection without relying on large labeled datasets.
   authors: D. Kang, J. Choi, J. Woo, C.-C. J. Kuo
   link:
-    url: https://biomedicalimaging.org/2025/
+    url: https://ieeexplore.ieee.org/abstract/document/10981229
     display: IEEE ISBI (2025)
   highlight: 1
   
 - title: "Overall Survival Prediction of Brain Tumor Patients with Multimodal MRI Using Swin UNETR"
   image: isbi_2025_1.png
   description: The proposed data-efficient multi-task framework leverages hierarchical segmentation features within advanced Swin UNETR to predict glioblastoma patient survival, integrating multi-scale features to capture detailed spatial information while maintaining computational efficiency. Through segmentation pre-training, feature fine-tuning aligned with survival prediction, and incorporation of age information, the model achieves superior segmentation accuracy and state-of-the-art survival prediction performance on the BraTS dataset, offering a robust solution for clinical prognosis.
-  authors: G.-H. Kim, F. Xing, H.-J. Kong, E. Santarnecchi, H. Shih, T. Bortfeld, G. El Fakhri, X. Liu, J.-H. Choi, J. Woo
+  authors: G. Kim, F. Xing, H.-J. Kong, E. Santarnecchi, H. Shih, T. Bortfeld, G. El Fakhri, X. Liu, J.-H. Choi, J. Woo
   link:
-    url: https://biomedicalimaging.org/2025/
+    url: https://ieeexplore.ieee.org/abstract/document/10981128
     display: IEEE ISBI (2025)
   highlight: 1
 
