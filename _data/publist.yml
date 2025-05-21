@@ -9,7 +9,7 @@
 
 - title: "Brightness-Invariant Tracking Estimation in Tagged MR"
   image: midl_2023.png
-  description:  BRITE, our novel tagged MRI tissue motion tracking technique, disentangles anatomy from tag patterns and simultaneously estimates Lagrangian motion by combining denoising diffusion probabilistic models with physics-informed neural networks. Validated.
+  description:  BRITE, our novel tagged MRI tissue motion tracking technique, disentangles anatomy from tag patterns and simultaneously estimates Lagrangian motion by combining denoising diffusion probabilistic models with physics-informed neural networks.
   authors: J. Bian et al.
   link:
     url: https://ipmi2025.org/scientific-program.html
