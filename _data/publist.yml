@@ -1,6 +1,6 @@
 - title: "Brightness-Invariant Tracking Estimation in Tagged MR"
   image: midl_2023.png
-  description: This paper presents a novel unsupervised phase-based 3D motion estimation technique for tagged MRI that addresses traditional challenges through two key innovations, including a sinusoidal transformation of harmonic phase input and a Jacobian determinant-based learning objective for incompressibility.
+  description:  BRITE, our novel tagged MRI tissue motion tracking technique, disentangles anatomy from tag patterns and simultaneously estimates Lagrangian motion by combining denoising diffusion probabilistic models with physics-informed neural networks. Validated.
   authors: J. Bian et al.
   link:
     url: https://ipmi2025.org/scientific-program.html
