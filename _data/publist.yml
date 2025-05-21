@@ -1,3 +1,12 @@
+- title: "GlioSurvNet: Multimodal Survival Prediction for Glioblastoma Using Deep Learning and Clinical Variables from Brain MRI"
+  image: isbi_2025_1.png
+  description: Accurate survival prediction using multimodal magnetic resonance imaging (MRI) plays a crucial role in clinical decision-making for patients with glioblastoma (GBM). We propose GlioSurvNet, a multimodal framework that integrates deep learning features from Swin UNETR with clinical variables to predict patient survival, utilizing multiple MRI sequences to capture diverse tumor characteristics.
+  authors: G. Kim, F. Xing, H.-J. Kong, E. Santarnecchi, H. Shih, T. Bortfeld, G. El Fakhri, X. Liu, J.-H. Choi, J. Woo
+  link:
+    url: https://2025.ieeeicip.org/
+    display: IEEE ICIP (2025)
+  highlight: 1
+
 - title: "Brightness-Invariant Tracking Estimation in Tagged MR"
   image: midl_2023.png
   description:  BRITE, our novel tagged MRI tissue motion tracking technique, disentangles anatomy from tag patterns and simultaneously estimates Lagrangian motion by combining denoising diffusion probabilistic models with physics-informed neural networks. Validated.
