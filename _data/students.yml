@@ -21,3 +21,17 @@
   email: enk.johannes98@gmail.com
   number_educ: 1
   education1: MS Student, FAU, Germany
+
+- name: Jeonghyun Shin
+  photo: future.png
+  info: BS Student
+  email: jschant@gmail.com
+  number_educ: 1
+  education1: BS Student, Princeton University, NJ, USA
+
+- name: Alice Rho
+  photo: future.png
+  info: BS Student
+  email: jschant@gmail.com
+  number_educ: 1
+  education1: BS Student, Washigton University in St. Louis, USA
