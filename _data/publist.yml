@@ -12,7 +12,7 @@
   description:  BRITE, our novel tagged MRI tissue motion tracking technique, disentangles anatomy from tag patterns and simultaneously estimates Lagrangian motion by combining denoising diffusion probabilistic models with physics-informed neural networks.
   authors: J. Bian et al.
   link:
-    url: https://ipmi2025.org/scientific-program.html
+    url: https://arxiv.org/pdf/2505.18365
     display: IPMI (2025)
   highlight: 1
 
