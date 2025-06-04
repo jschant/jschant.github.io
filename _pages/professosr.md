@@ -32,7 +32,7 @@ Dr. Jonghye Woo is an Associate Professor in the Department of Radiology at Harv
 - Session Chair and Program Committee, SPIE Medical Imaging: Image Processing, 2022-Present
 
 ### Awards & Honors
-- IEEE JBHI Best Associate Editors, 2025
+- IEEE JBHI Best Associate Editors Award, 2025
 - Distinguished Investigator Award, Academy of Radiology & Biomedical Imaging Research, 2023
 - NIH K99/R00 Pathway to Independence Award (NIDCD), 2013
 - Best Dissertation Award, Viterbi School of Engineering, USC, 2010
