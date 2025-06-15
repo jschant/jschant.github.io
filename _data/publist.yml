@@ -378,6 +378,15 @@ Patients with Tongue Cancer Using MRI Data"
     url: https://onlinelibrary.wiley.com/doi/10.1002/mrm.29486
     display: Magnetic Resonance in Medicine (2022)
   highlight: 1
+
+- title: "Tagged-MRI Sequence to Audio Synthesis via Self Residual Attention Guided Heterogeneous Translator"
+  image: miccai_2022.png
+  description: We develop an end-to-end deep learning framework that uses spectrograms as an intermediate representation and employs a fully convolutional asymmetry translator with self-residual attention, latent space disentanglement, and adversarial training to successfully generate clear audio waveforms from tagged-MRI sequences, demonstrating superior performance over competing methods on 63 sequences.
+  authors: X. Liu et al.
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-031-16446-0_36
+    display: MICCAI (2022)
+  highlight: 1
   
 - title: "Automation of generative adversarial network-based synthetic data-augmentation for maximizing the diagnostic performance with paranasal imaging"
   image: sp_2022.png
