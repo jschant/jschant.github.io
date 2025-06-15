@@ -287,6 +287,15 @@ Patients with Tongue Cancer Using MRI Data"
     display: MICCAI MTSAIL (2023)
   highlight: 1
 
+- title: "MomentaMorph: Unsupervised Spatial-Temporal Registration with Momenta, Shooting, and Correction"
+  image: mtsail_v2.png
+  description:  We propose a novel "momenta, shooting, and correction" framework based on Lie algebra and Lie group principles that accumulates momenta in tangent vector space and uses exponential mapping in diffeomorphic space to rapidly approximate true optima while avoiding local minima, demonstrating improved accuracy for dense motion field estimation on both synthetic 2D and real 3D tMRI datasets.
+  authors: J. Bian et al.
+  link:
+    url: https://dl.acm.org/doi/10.1007/978-3-031-47425-5_3
+    display: MICCAI MTSAIL (2023)
+  highlight: 1
+
 - title: "Preliminary Development of an MRI Atlas for Application to Cleft Care: Findings and Future Recommendations"
   image: mrm_2023.png
   description: We introduce a highly innovative imaging method to study the complex velopharyngeal system and introduce the potential future clinical applications of a VP atlas in cleft care.
