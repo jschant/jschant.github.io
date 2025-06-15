@@ -495,6 +495,15 @@ Patients with Tongue Cancer Using MRI Data"
     url: https://arxiv.org/abs/2106.12499
     display: MICCAI (2021)
   highlight: 1
+
+- title: "Adapting Off-the-Shelf Source Segmenter for Target Medical Image Segmentation"
+  image: miccai_2021_1.png
+  description: This paper addresses source-free unsupervised domain adaptation (UDA) for segmentation, where access to source domain data is limited due to storage or privacy constraints, by proposing an adaptive batch-wise normalization statistics adaptation framework that gradually adapts low-order statistics (mean and variance) while enforcing consistency of high-order statistics (scaling and shifting parameters.
+  authors: X. Liu et al.
+  link:
+    url: https://arxiv.org/abs/2106.12497
+    display: MICCAI (2021)
+  highlight: 1
   
 - title: "Subtype-aware Unsupervised Domain Adaptation for Medical Diagnosis"
   image: aaai_2021.png
