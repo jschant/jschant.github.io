@@ -1,3 +1,11 @@
+- title: "Mixture-of-Shape-Experts (MoSE): End-to-End Shape Dictionary Framework to Prompt SAM for Generalizable Medical Segmentation"
+  image: cvpr_2025.png
+  description: This paper proposes a Mixture-of-Shape-Experts (MoSE) framework that treats dictionary atoms as specialized "shape experts" with sparse activation guided by SAM encoding, integrating bidirectionally with SAM to leverage robust shape priors while preventing overfitting through end-to-end training.
+  link:
+    url: https://arxiv.org/pdf/2504.09601
+    display: CVPR Workshop (2025)
+  highlight: 1
+
 - title: "GlioSurvNet: Multimodal Survival Prediction for Glioblastoma Using Deep Learning and Clinical Variables from Brain MRI"
   image: isbi_2025_1.png
   description: Accurate survival prediction using multimodal magnetic resonance imaging (MRI) plays a crucial role in clinical decision-making for patients with glioblastoma (GBM). We propose GlioSurvNet, a multimodal framework that integrates deep learning features from Swin UNETR with clinical variables to predict patient survival, utilizing multiple MRI sequences to capture diverse tumor characteristics.
