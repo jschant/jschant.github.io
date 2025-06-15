@@ -387,6 +387,15 @@ Patients with Tongue Cancer Using MRI Data"
     url: https://link.springer.com/chapter/10.1007/978-3-031-16446-0_36
     display: MICCAI (2022)
   highlight: 1
+
+- title: "ACT: Semi-supervised Domain-adaptive Medical Image Segmentation with Asymmetric Co-training"
+  image: miccai_2022_1.png
+  description:  We introduce an asymmetric co-training (ACT) framework that decouples SSDA into semi-supervised learning and UDA sub-tasks, using two segmentors with confidence-aware pseudo-labeling and exponential MixUp decay to achieve marked improvements over existing methods on cross-modality brain tumor MRI segmentation tasks.
+  authors: X. Liu et al.
+  link:
+    url: https://arxiv.org/abs/2206.02288
+    display: MICCAI (2022)
+  highlight: 1
   
 - title: "Automation of generative adversarial network-based synthetic data-augmentation for maximizing the diagnostic performance with paranasal imaging"
   image: sp_2022.png
