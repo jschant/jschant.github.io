@@ -487,6 +487,15 @@ Patients with Tongue Cancer Using MRI Data"
     display: JASA (2021)
   highlight: 1
   
+- title: "Generative Self-training for Cross-domain Unsupervised Tagged-to-Cine MRI Synthesis"
+  image: miccai_2021.png
+  description: This paper addresses the underexplored area of self-training unsupervised domain adaptation (UDA) for generative tasks like image synthesis, proposing a novel generative self-training (GST) framework that uses uncertainty masks for pseudo-label filtering and variational Bayes learning to quantify predictive confidence in generated images. 
+  authors: X. Liu et al.
+  link:
+    url: https://arxiv.org/abs/2106.12499
+    display: MICCAI (2021)
+  highlight: 1
+  
 - title: "Subtype-aware Unsupervised Domain Adaptation for Medical Diagnosis"
   image: aaai_2021.png
   description: This research proposes a subtype-aware dynamic unsupervised domain adaptation approach that improves cross-domain alignment by discovering and leveraging fine-grained subtype structures within classes, enforcing both class-wise separation and subtype-wise compactness. The method adaptively identifies subtypes with or without prior information on subtype numbers, recognizing that unlabeled subtypes within a class can diverge from each other while maintaining local proximity, achieving promising results on medical diagnosis tasks.
