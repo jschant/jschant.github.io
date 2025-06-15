@@ -251,6 +251,15 @@ Patients with Tongue Cancer Using MRI Data"
     display: IEEE Trans on Biomedical Engineering (2023)
   highlight: 1
 
+- title: "Synthesizing audio from tongue motion during speech using tagged MRI via transformer"
+  image: spie_2023_trans.png
+  description: We develop an encoder-decoder translation network using 3D convolutional spatial modeling and transformer-based temporal modeling to predict 2D spectrograms from 4D motion fields,
+  authors: X. Liu et al.
+  link:
+    url: https://arxiv.org/abs/2302.07203
+    display: SPIE Medical Imaging (2023)-Deep dive
+  highlight: 1
+  
 - title: "DRIMET: Deep Registration for 3D Incompressible Motion Estimation in Tagged-MRI with Application to the Tongue"
   image: midl_2023.png
   description: This paper presents a novel unsupervised phase-based 3D motion estimation technique for tagged MRI that addresses traditional challenges through two key innovations, including a sinusoidal transformation of harmonic phase input and a Jacobian determinant-based learning objective for incompressibility.
