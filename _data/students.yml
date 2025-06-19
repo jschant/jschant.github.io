@@ -24,14 +24,22 @@
 
 - name: Jeonghyun Shin
   photo: future.png
-  info: BS Student
+  info: Undergraduate Student
   email: jschant@gmail.com
   number_educ: 1
   education1: BS Student, Princeton University, NJ, USA
 
 - name: Alice Rho
   photo: future.png
-  info: BS Student
+  info: Undergraduate Student
   email: jschant@gmail.com
   number_educ: 1
   education1: BS Student, Washigton University in St. Louis, USA
+
+- name: Kyuwon Park
+  photo: future.png
+  info: Undergraduate Student
+  email: hkang14@mgb.org
+  number_educ: 1
+  education1: BS Student, DGIST, Korea
+
