@@ -37,7 +37,7 @@ Dr. Jonghye Woo is an Associate Professor in the Department of Radiology at Harv
 - IEEE JBHI Best Associate Editors Award, 2025
 - Robert F. Wagner All-Conference Best Student Paper Award (Finalist), SPIE Medical Imaging (co-author), 2025
 - Best Student Paper, SPIE Medical Imaging: Image Processing (co-author), 2024
-- IEEE TMI Distinguished Reviewer, 2024
+- IEEE TMI Distinguished Reviewer (Bronze), 2024
 - Distinguished Investigator Award, Academy of Radiology & Biomedical Imaging Research, 2023
 - Outstanding Reviewer Award, Physics in Medicine and Biology, 2018
 - Robert F. Wagner Best Student Paper Award Finalist (co-author), 2015
