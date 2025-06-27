@@ -8,6 +8,13 @@
 #  education3:
 #  education4:
 
+- name: Jyun-Ping Kao
+  photo: future.png
+  info: MS Student
+  email: hkang14@mgb.org
+  number_educ: 1
+  education1: MS Student, National Taiwan University, Taiwan
+
 - name: Hahn Kang
   photo: future.png
   info: Undergraduate Student
