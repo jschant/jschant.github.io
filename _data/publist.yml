@@ -8,7 +8,7 @@
   highlight: 1
 
 - title: "GlioSurvNet: Multimodal Survival Prediction for Glioblastoma Using Deep Learning and Clinical Variables from Brain MRI"
-  image: isbi_2025.png
+  image: icip_2025.png
   description: Accurate survival prediction using multimodal magnetic resonance imaging (MRI) plays a crucial role in clinical decision-making for patients with glioblastoma (GBM). We propose GlioSurvNet, a multimodal framework that integrates deep learning features from Swin UNETR with clinical variables to predict patient survival, utilizing multiple MRI sequences to capture diverse tumor characteristics.
   authors: G. Kim, F. Xing, H.-J. Kong, E. Santarnecchi, H. Shih, T. Bortfeld, G. El Fakhri, X. Liu, J.-H. Choi, J. Woo
   link:
