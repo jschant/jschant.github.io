@@ -1,3 +1,12 @@
+- title: "Speech Audio Generation from Dynamic MRI via a Knowledge Enhanced Conditional Variational Autoencoder"
+  image: miccai_2025.png
+  description: This paper presents a Knowledge Enhanced Conditional Variational Autoencoder (KE-CVAE) that generates speech audio directly from dynamic MRI video sequences of the vocal tract, addressing the critical need for audio recovery when MRI acquisition environments cause systematic data loss, noise, or corruption.
+  authors: Y. Li et al.
+  link:
+    url: https://conferences.miccai.org/2025/en/default.asp
+    display: MICCAI (2025)
+  highlight: 1
+
 - title: "Individualized Treatment Effect Inference of Head and Neck Cancer with Multimodal Data"
   image: apsipa_2025_hn.png
   description: This paper proposes a new deep learning model that can infer individualized treatment effect for head and neck cancer.
