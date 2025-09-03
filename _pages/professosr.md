@@ -34,6 +34,7 @@ Dr. Jonghye Woo is an Associate Professor in the Department of Radiology at Harv
 - Session Chair and Program Committee, SPIE Medical Imaging: Image Processing, 2022-Present
 
 ### Awards & Honors
+- Sadaoki Furui Prize Paper Award (Best Overview Paper; Senior Author), APSIPA, 2025
 - IEEE JBHI Best Associate Editors Award, 2025
 - Robert F. Wagner All-Conference Best Student Paper Award (Finalist), SPIE Medical Imaging (co-author), 2025
 - Best Student Paper, SPIE Medical Imaging: Image Processing (co-author), 2024
