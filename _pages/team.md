@@ -129,7 +129,7 @@ permalink: /team/
 
 ## Collaborators
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.collaborators %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
