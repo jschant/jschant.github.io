@@ -54,5 +54,5 @@ We are grateful for funding from NIH, the Korean government, and industry partne
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hms.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mgh_logo.png" style="width: 220px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gcmi.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cii_mgh.png" style="width: 120px">
 </figure>
