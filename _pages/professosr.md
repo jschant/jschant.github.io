@@ -28,7 +28,6 @@ Dr. Jonghye Woo is an Associate Professor in the Department of Radiology at Harv
 - Topic (Guest) Associate Editor, “Machine Learning with Big Data in Neuroimaging,” Frontiers in Neuroscience
 - Guest Editor, PLOS Computational Biology
 - Organizing Committee (CLINICCAI), MICCAI, 2025
-- Session Co-Chair, "Application of Generative AI in Healthcare," IEEE ICIP, 2025
 - Area Chair, Poster Session Chair, and Program Committee, MICCAI, 2023-2024
 - Co-Chair, MICCAI Workshop on Time-Series Data Analytics and Learning, MICCAI, 2023
 - Session Chair and Program Committee, SPIE Medical Imaging: Image Processing, 2022-Present
