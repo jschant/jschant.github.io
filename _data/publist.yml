@@ -1,3 +1,12 @@
+- title: "Cross-Modal Diffusion for Region-Aligned Vocal Tract MRI Synthesis"
+  image: spie_2026_1.png
+  description: we propose a generative framework that synthesizes anatomically accurate vocal tract MRI sequences directly from speech audio using Whisper's audio-language representations and region-of-interest alignment, enabling simulation of speech-driven anatomical motion without direct MRI acquisition.
+  authors: P. Perez-Toro et al.
+  link:
+    url: https://spie.org/conferences-and-exhibitions/medical-imaging
+    display: SPIE (2026)
+  highlight: 1
+
 - title: "Speech Audio Generation from Dynamic MRI via a Knowledge Enhanced Conditional Variational Autoencoder"
   image: miccai_2025.png
   description: This paper presents a Knowledge Enhanced Conditional Variational Autoencoder (KE-CVAE) that generates speech audio directly from dynamic MRI video sequences of the vocal tract, addressing the critical need for audio recovery when MRI acquisition environments cause systematic data loss, noise, or corruption.
