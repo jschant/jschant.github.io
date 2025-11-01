@@ -1,6 +1,6 @@
 - title: "Cross-Modal Diffusion for Region-Aligned Vocal Tract MRI Synthesis"
   image: spie_2026_1.png
-  description: we propose a generative framework that synthesizes anatomically accurate vocal tract MRI sequences directly from speech audio using Whisper's audio-language representations and region-of-interest alignment, enabling simulation of speech-driven anatomical motion without direct MRI acquisition.
+  description: We propose a generative framework that synthesizes anatomically accurate vocal tract MRI sequences directly from speech audio using Whisper's audio-language representations and region-of-interest alignment, enabling simulation of speech-driven anatomical motion without direct MRI acquisition.
   authors: P. Perez-Toro et al.
   link:
     url: https://spie.org/conferences-and-exhibitions/medical-imaging
