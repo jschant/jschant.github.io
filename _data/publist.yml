@@ -1,5 +1,5 @@
 - title: "Frequency-aware inter-branch fusion network for texture-preserving denoising in low-dose CT"
-  image: spie_2026_1.png
+  image: spie_2026_2.png
   description: We propose a dual-branch deep learning framework for denoising low-dose CT images while preserving fine textures. The model combines a low-frequency suppression branch and a high-frequency detail recovery branch, utilizing Discrete Wavelet Transform and cross-directional feature fusion. Evaluated on the NIH-AAPM-Mayo Clinic dataset, our method outperforms existing techniques in both noise reduction and texture preservation
   authors: S. Jun et al.
   link:
