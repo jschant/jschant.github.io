@@ -1,3 +1,12 @@
+- title: "Latent diffusion transformers for 3D head and neck tumor segmentation"
+  image: spie_2026_2.png
+  description: LDiT3D is a 3D latent diffusion model using transformer architecture that automates head and neck tumor segmentation from FDG-PET and CT scans, operating efficiently in a compressed latent space created by a pre-trained autoencoder. Trained on over 500 patients, it outperforms existing U-Net and transformer-based models with a Dice Score of 77.60%, demonstrating superior accuracy and clinical potential for reducing clinicians' segmentation burden.
+  authors: Y. Dong et al.
+  link:
+    url: https://spie.org/conferences-and-exhibitions/medical-imaging
+    display: SPIE Medical Imaging (2026)
+  highlight: 1
+
 - title: "Frequency-aware inter-branch fusion network for texture-preserving denoising in low-dose CT"
   image: spie_2026_2.png
   description: We propose a dual-branch deep learning framework for denoising low-dose CT images while preserving fine textures. The model combines a low-frequency suppression branch and a high-frequency detail recovery branch, utilizing Discrete Wavelet Transform and cross-directional feature fusion. Evaluated on the NIH-AAPM-Mayo Clinic dataset, our method outperforms existing techniques in both noise reduction and texture preservation
