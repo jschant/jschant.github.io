@@ -35,6 +35,7 @@ Dr. Jonghye Woo is an Associate Professor in the Department of Radiology at Harv
 - IEEE ISBI Technical Program Committee (Reviewer), 2025-
 
 ### Awards & Honors
+- Ewha Global Fellow, 2025
 - Sadaoki Furui Prize Paper Award (Best Overview Paper; Senior Author), APSIPA, 2025
 - IEEE JBHI Best Associate Editors Award, 2025
 - Robert F. Wagner All-Conference Best Student Paper Award (Finalist), SPIE Medical Imaging (co-author), 2025
