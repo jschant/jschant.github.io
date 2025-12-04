@@ -1,3 +1,12 @@
+- title: "Deep Learning-Based Non-Contrast MRI Model forNasopharyngeal Carcinoma Diagnosis: An End-to-EndGadolinium-Free Solution"
+  image: spie_2025_y.png
+  description: Contrast-enhanced T1-weighted MRI using gadolinium-based contrast agents has been crucial for nasopharyngeal carcinoma diagnosis, but safety concerns have prompted research into alternative methods. This study developed a diagnostic model using non-contrast images that achieved high accuracy comparable to contrast-enhanced imaging, suggesting a promising contrast-free approach for NPC detection.
+  authors: Z. Li et al.
+  link:
+    url: https://www.nature.com/npjdigitalmed/
+    display: npj Digital Medicine (2026)
+  highlight: 1
+
 - title: "Latent diffusion transformers for 3D head and neck tumor segmentation"
   image: spie_2026_3.png
   description: LDiT3D is a 3D latent diffusion model using transformer architecture that automates head and neck tumor segmentation from FDG-PET and CT scans, operating efficiently in a compressed latent space created by a pre-trained autoencoder. Trained on over 500 patients, it outperforms existing U-Net and transformer-based models with a Dice Score of 77.60%, demonstrating superior accuracy and clinical potential for reducing clinicians' segmentation burden.
