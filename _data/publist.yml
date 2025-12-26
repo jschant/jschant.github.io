@@ -1,3 +1,12 @@
+- title: "Variance Extrapolated Class-Imbalance-Aware Domain Adaptive Myocardial Segmentation in Multi-Sequence Cardiac MRI"
+  image: npj_digital_2026.png
+  description: We propose an unsupervised domain adaptation framework with class-imbalance self-training and variance-guided feature extrapolation that achieves robust segmentation across multi-vendor cine, T1, and LGE MRI without sequence-specific annotations, outperforming existing methods in Dice coefficient and Hausdorff distance.
+  authors: F. Xing et al.
+  link:
+    url: https://www.embs.org/jbhi/
+    display: IEEE JBHI (2026)
+  highlight: 1
+
 - title: "Deep Learning-Based Non-Contrast MRI Model for Nasopharyngeal Carcinoma Diagnosis: An End-to-End Gadolinium-Free Solution"
   image: npj_digital_2026.png
   description: Contrast-enhanced T1-weighted MRI using gadolinium-based contrast agents has been crucial for nasopharyngeal carcinoma diagnosis, but safety concerns have prompted research into alternative methods. This study developed a diagnostic model using non-contrast images that achieved high accuracy comparable to contrast-enhanced imaging, suggesting a promising contrast-free approach for NPC detection.
