@@ -15,17 +15,3 @@
   education1: Postdoc, MGH/Harvard, Boston, MA, USA
   education2: PhD, ECE, Johns Hopkins University, Baltimore, USA
   education3: BS, Tsinghua University, Beijing, China
-  
-- name: Dr. Jeeyoung Hong
-  photo: future_f.png
-  info: Visiting Researcher from Seoul National University College of Medicine, Seoul, Korea
-  email: JHONG15@mgh.harvard.edu
-  number_educ: 1
-  education1: Postdoc, Seoul National University College of Medicine, Seoul, Korea
-
-- name: Sunyoung Jun 
-  photo: future_f.png
-  info: Visiting Student from Ewha Womans University, Seoul, Korea
-  email: lazarev@mail.tau.ac.il
-  number_educ: 1
-  education1: PhD student, Ewha Womans University, Seoul, Korea
