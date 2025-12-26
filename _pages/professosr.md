@@ -17,12 +17,12 @@ Dr. Jonghye Woo is an Associate Professor in the Department of Radiology at Harv
 - Faculty Affiliate, Harvard Data Science Initiative, Cambridge, MA, 2023-Present
 - Associate member, The Broad Institute of MIT and Harvard, Cambridge, MA, 2023-Present
 - Full member, Cancer Data Sciences, Dana-Farber/Harvard Cancer Center, 2023-Present
-- Adjunct Professor, MGH Institute of Health Professions, Boston, MA, 2015-Present
+- Adjunct Professor, MGH Institute of Health Professions, Boston, MA, 2015-2018; 2021-Present
 - Investigator, MGH Center for Inflammation Imaging (previously known as Gordon Center for Medical Imaging), Massachusetts General Hospital, Boston, MA, 2014-Present
 
 ### Editorial role/Program Committee
-- Associate Editor, IEEE Journal of Biomedical and Health Informatics
 - Editorial Board Member, npj Digital Medicine
+- Associate Editor, IEEE Journal of Biomedical and Health Informatics
 - Editorial Board Member, APSIPA Transactions on Signal and Information Processing
 - Guest Editor, Themed Series of APSIPA Transactions on Signal and Information Processing on “AI for Medical Image Analysis”
 - Guest Editor, Themed Series of APSIPA Transactions on Signal and Information Processing on "AI in healthcare"
