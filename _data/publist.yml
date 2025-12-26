@@ -1,5 +1,5 @@
 - title: "Variance Extrapolated Class-Imbalance-Aware Domain Adaptive Myocardial Segmentation in Multi-Sequence Cardiac MRI"
-  image: npj_digital_2026.png
+  image: jbhi_2026.png
   description: We propose an unsupervised domain adaptation framework with class-imbalance self-training and variance-guided feature extrapolation that achieves robust segmentation across multi-vendor cine, T1, and LGE MRI without sequence-specific annotations, outperforming existing methods in Dice coefficient and Hausdorff distance.
   authors: F. Xing et al.
   link:
