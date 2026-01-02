@@ -3,7 +3,7 @@
   description: We propose an unsupervised domain adaptation framework with class-imbalance self-training and variance-guided feature extrapolation that achieves robust segmentation across multi-vendor cine, T1, and LGE MRI without sequence-specific annotations, outperforming existing methods in Dice coefficient and Hausdorff distance.
   authors: F. Xing et al.
   link:
-    url: https://www.embs.org/jbhi/
+    url: https://ieeexplore.ieee.org/document/11320273
     display: IEEE J. Biomed. Health Informatics (2026)
   highlight: 1
 
