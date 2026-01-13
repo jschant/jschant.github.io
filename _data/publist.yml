@@ -1,3 +1,10 @@
+- title: "Cross-Modal Fine-Tuning of 3D Convolutional Foundation Models for ADHD Classification with Low-Rank Adaptation"
+  image: isbi_2026.png
+  description: This study proposes a novel parameter-efficient transfer learning approach that adapts a 3D convolutional foundation model, originally pre-trained on CT images, to classify ADHD from diffusion MRI data using Low-Rank Adaptation (LoRA) by factorizing 3D kernels into 2D low-rank updates. The method achieved state-of-the-art performance (71.9% accuracy and 0.716 AUC) on ADHD classification while using 113× fewer trainable parameters than full fine-tuning, demonstrating the first successful cross-modal (CT-to-MRI) foundation model adaptation in neuroimaging.
+    url: https://arxiv.org/abs/2511.06163
+    display: IEEE ISBI (2026)
+  highlight: 1
+
 - title: "Variance Extrapolated Class-Imbalance-Aware Domain Adaptive Myocardial Segmentation in Multi-Sequence Cardiac MRI"
   image: jbhi_2026.png
   description: We propose an unsupervised domain adaptation framework with class-imbalance self-training and variance-guided feature extrapolation that achieves robust segmentation across multi-vendor cine, T1, and LGE MRI without sequence-specific annotations, outperforming existing methods in Dice coefficient and Hausdorff distance.
