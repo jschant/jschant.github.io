@@ -1,3 +1,12 @@
+- title: "A Speech-to-Video Synthesis Approach Using Spatio-Temporal Diffusion for Vocal Tract MRI"
+  image: media_2026.png
+  description: This paper introduces an audio-to-video generation framework that creates real-time cine-Magnetic Resonance Imaging (RT/cine-MRI) visualizations of vocal tract motion from speech signals, using temporal alignment preprocessing and a modified stable diffusion model with structural and temporal blocks to capture movement dynamics. 
+  authors: P. Perez-Toro et al.
+  link:
+    url: https://arxiv.org/pdf/2503.12102
+    display: arXiv (2026)
+  highlight: 1
+
 - title: "Cross-Modal Fine-Tuning of 3D Convolutional Foundation Models for ADHD Classification with Low-Rank Adaptation"
   image: isbi_2026.png
   description: This study proposes a novel parameter-efficient transfer learning approach that adapts a 3D convolutional foundation model, originally pre-trained on CT images, to classify ADHD from diffusion MRI data using Low-Rank Adaptation (LoRA) by factorizing 3D kernels into 2D low-rank updates. The method achieved state-of-the-art performance (71.9% accuracy and 0.716 AUC) on ADHD classification while using 113× fewer trainable parameters than full fine-tuning, demonstrating the first successful cross-modal (CT-to-MRI) foundation model adaptation in neuroimaging.
