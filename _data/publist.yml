@@ -568,6 +568,15 @@ Patients with Tongue Cancer Using MRI Data"
     display: SPIE Medical Imaging (2022)
   highlight: 1
 
+- title: "Speech intelligibility loss due to amyotrophic lateral sclerosis: the effect of tongue movement reduction on vowel and consonant acoustic features"
+  image: isbi_2021.png
+  description: Novel "whole tongue" kinematic measures capturing coordinated movement between tongue blade and dorsum revealed consistent motor impairments in 11 ALS patients that better predicted speech intelligibility than traditional single-region measures. These coordination deficits correlated with reduced phonetic distinctiveness, indicating that impaired inter-regional tongue movement contributes to intelligibility decline in ALS dysarthria.
+  authors: P. Rong et al.
+  link:
+    url: https://www.tandfonline.com/doi/abs/10.1080/02699206.2020.1868021
+    display: Clinical Linguistics & Phonetics (2021)
+  highlight: 1
+  
 - title: "A Unified Conditional Disentanglement Framework for Multimodal Brain MR Image Translation"
   image: isbi_2021.png
   description: The proposed unified conditional disentanglement framework addresses the challenge of limited multimodal MRI acquisition by enabling synthesis of arbitrary modalities from a single input through cycle-constrained conditional adversarial training. Validated on four MRI modalities from the BraTS'18 database, the framework outperforms comparison methods in synthesis quality and demonstrates effectiveness in tumor segmentation tasks using the synthesized data.
