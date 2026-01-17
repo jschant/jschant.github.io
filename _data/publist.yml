@@ -559,6 +559,15 @@ Patients with Tongue Cancer Using MRI Data"
     display: SPIE Medical Imaging (2022)
   highlight: 1
 
+- title: "Structure-aware unsupervised tagged-to-cine MRI synthesis with self disentanglement"
+  image: spie_2022_variability.png
+  description: This work addresses structural inconsistencies in cycle-consistent GANs by learning a general structural feature extractor through input-output patch self-training that disentangles anatomical structures from imaging modalities. Validation on 3,744 cardiac MRI slices shows superior performance over competing unpaired image translation methods.
+  authors: X. Liu et al.
+  link:
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9533681/
+    display: SPIE Medical Imaging (2022)
+  highlight: 1
+
 - title: "A Unified Conditional Disentanglement Framework for Multimodal Brain MR Image Translation"
   image: isbi_2021.png
   description: The proposed unified conditional disentanglement framework addresses the challenge of limited multimodal MRI acquisition by enabling synthesis of arbitrary modalities from a single input through cycle-constrained conditional adversarial training. Validated on four MRI modalities from the BraTS'18 database, the framework outperforms comparison methods in synthesis quality and demonstrates effectiveness in tumor segmentation tasks using the synthesized data.
