@@ -451,6 +451,15 @@ Patients with Tongue Cancer Using MRI Data"
     display: Interspeech (2023)
   highlight: 1
 
+- title: "Cmri2spec: Cine MRI Sequence to Spectrogram Synthesis via A Pairwise Heterogeneous Translator"
+  image: interspeech_2023.png
+  description: We develop a deep learning framework that translates visual vocal tract movements from cine MRI into speech spectrograms by combining 3D convolutional encoding with adversarial training and latent space disentanglement. Our method outperforms competing approaches on a dataset of 63 MRI sequences, demonstrating potential for better understanding the relationship between articulatory movements and speech acoustics.
+  authors: X. Liu et al.
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9746381
+    display: IEEE ICASSP (2022)
+  highlight: 1
+
 - title: "Brain MR Atlas Construction Using Symmetric Deep Neural Inpainting"
   image: jbhi_2022.png
   description: In this work, we developed a method for deep learning based inpainting and applied to construct brain atlases.
