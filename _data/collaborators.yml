@@ -27,4 +27,11 @@
   info: MS Student
   email: hkang14@mgb.org
   number_educ: 1
-  education1: CSE MS Student, Harvard University, USA
+  education1: Computer Science, Harvard University, USA
+
+- name: Minh Tran
+  photo: future.png
+  info: MS Student
+  email: hkang14@mgb.org
+  number_educ: 1
+  education1: Data Science, Harvard University, USA
