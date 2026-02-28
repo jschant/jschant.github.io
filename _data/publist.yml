@@ -1,12 +1,3 @@
-- title: "Synthesizing Vocal Tract MRI Sequences with Phoneme-Aware Diffusion Models"
-  image: jmi_2026.png
-  description: This paper presents a diffusion-based framework that synthesizes dynamic vocal tract MRI sequences directly from speech audio, using phonemic-aware attention and contrastive learning trained on the USC 75-Speaker Speech MRI Database. The approach achieves strong generalization to unseen speakers and introduces a new metric for evaluating articulatory precision, with potential applications in diagnostics, speech therapy, and articulatory research.
-  authors: P. Perez-Toro et al.
-  link:
-    url: https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging
-    display: SPIE Journal of Medical Imaging (2026)
-  highlight: 1
-
 - title: "Refined Myocardium Segmentation from CT Using a Hybrid-Fusion Transformer"
   image: bspc_2026.png
   description: This study presents a Hybrid-Fusion Transformer method that refines semi-automatic left ventricle segmentation in cardiac CT by removing papillary muscles, using both CT images and rough labels as dual inputs. The approach enables efficient training on small datasets while achieving superior accuracy compared to single-input methods.
