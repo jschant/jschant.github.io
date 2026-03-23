@@ -4,7 +4,7 @@
   authors: P. Perez-Toro et al.
   link:
     url: https://arxiv.org/abs/2503.12102
-    display: Medical Image Analysis (2026)
+    display: Medical Image Analysis (2026) (IF=11.8)
   highlight: 1
 
 - title: "Interpretable and backpropagation-free Green Learning for efficient multi-task echocardiographic segmentation and classification"
@@ -40,7 +40,7 @@
   authors: F. Xing et al.
   link:
     url: https://ieeexplore.ieee.org/document/11320273
-    display: IEEE J. Biomed. Health Informatics (2026)
+    display: IEEE J. Biomed. Health Informatics (2026) (IF=6.7)
   highlight: 1
 
 - title: "Deep Learning-Based Non-Contrast MRI Model for Nasopharyngeal Carcinoma Diagnosis: An End-to-End Gadolinium-Free Solution"
@@ -49,7 +49,7 @@
   authors: Z. Li et al.
   link:
     url: https://www.nature.com/npjdigitalmed/
-    display: npj Digital Medicine (2026)
+    display: npj Digital Medicine (2026) (IF=15.1)
   highlight: 1
 
 - title: "Latent diffusion transformers for 3D head and neck tumor segmentation"
@@ -166,7 +166,7 @@
   authors: C. Yoo, X. Liu, F. Xing, J. Woo and J.-W. Kang
   link:
     url: https://ieeexplore.ieee.org/document/11008464
-    display: IEEE Trans on Image Processing (2025)
+    display: IEEE Trans on Image Processing (2025) (IF=13.7)
   highlight: 1
   
 - title: "Unsupervised Anomaly Detection Framework for Coronary Artery Lesions in CTCA"
@@ -283,7 +283,7 @@
   authors: X. Liu, F. Xing, J. You, J. Lu, C.-C. J. Kuo, G. El Fakhri, J. Woo
   link:
     url: https://arxiv.org/abs/2208.07754
-    display: IEEE Trans on Neural Networks and Learning Systems (TNNLS) (2024)
+    display: IEEE Trans on Neural Networks and Learning Systems (TNNLS) (2024) (IF=8.9)
   highlight: 1
 
 - title: "Is Registering Raw Tagged-MR Enough for Strain Estimation in the Era of Deep Learning?"
@@ -430,7 +430,7 @@ Patients with Tongue Cancer Using MRI Data"
   authors: X. Liu, F. Xing, G. El Fakhri, J. Woo
   link:
     url: https://arxiv.org/abs/2209.07910
-    display: Medical Image Analysis (2023)
+    display: Medical Image Analysis (2023) (IF=11.8)
   highlight: 1
   
 - title: "Attentive Continuous Generative Self-training for Unsupervised Domain Adaptive Medical Image Translation"
@@ -439,7 +439,7 @@ Patients with Tongue Cancer Using MRI Data"
   authors: X. Liu, J. L. Prince, F. Xing, J. Zhuo, T. Reese, M. Stone, G. El Fakhria, J. Woo
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S1361841523001111
-    display: Medical Image Analysis (2023)
+    display: Medical Image Analysis (2023) (IF=11.8)
   highlight: 1
 
 - title: "Speech Audio Synthesis from Tagged MRI and Non-negative Matrix Factorization via Plastic Transformer"
@@ -484,7 +484,7 @@ Patients with Tongue Cancer Using MRI Data"
   authors: F. Xing, X. Liu, C.-C. J. Kuo, G. El Fakhri, J. Woo
   link:
     url: https://ieeexplore.ieee.org/document/9709149/
-    display: IEEE J. Biomed. Health Informatics (2022)
+    display: IEEE J. Biomed. Health Informatics (2022) (IF=6.7)
   highlight: 1
 
 - title: "Self-Semantic Contour Adaptation for Cross Modality Brain Tumor Segmentation"
@@ -556,7 +556,7 @@ Patients with Tongue Cancer Using MRI Data"
   authors: X. Liu, F. Xing, C. Yang, C.-C. J. Kuo, S. Babu, G. El Fakhri, T. Jenkins, J. Woo
   link:
     url: https://arxiv.org/abs/2101.05131
-    display: IEEE J. Biomed. Health Informatics (2022)
+    display: IEEE J. Biomed. Health Informatics (2022) (IF=6.7)
   highlight: 1
 
 - title: "Deep unsupervised domain adaptation: A review of recent advances and perspectives"
