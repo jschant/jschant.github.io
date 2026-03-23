@@ -1,3 +1,12 @@
+- title: "A Speech-to-Video Synthesis Approach Using Spatio-Temporal Diffusion for Vocal Tract MRI"
+  image: media_2026.png
+  description: This paper introduces an audio-to-video generation framework that creates real-time cine-Magnetic Resonance Imaging (RT/cine-MRI) visualizations of vocal tract motion from speech signals, using temporal alignment preprocessing and a modified stable diffusion model with structural and temporal blocks to capture movement dynamics. 
+  authors: P. Perez-Toro et al.
+  link:
+    url: https://arxiv.org/pdf/2503.12102
+    display: Journal of Medical Image Analysis (2026)
+  highlight: 1
+
 - title: "Interpretable and backpropagation-free Green Learning for efficient multi-task echocardiographic segmentation and classification"
   image: apsipa_2026.png
   description: This paper proposes a backpropagation-free Multi-Task Green Learning framework that combines an unsupervised VoxelHop encoder with an XGBoost classifier to perform simultaneous LV segmentation and LVEF classification from echocardiography.
@@ -14,15 +23,6 @@
   link:
     url: https://www.biorxiv.org/content/10.1101/2024.09.27.615510v2
     display: Biomedical Signal Processing and Control (2026)
-  highlight: 1
-
-- title: "A Speech-to-Video Synthesis Approach Using Spatio-Temporal Diffusion for Vocal Tract MRI"
-  image: media_2026.png
-  description: This paper introduces an audio-to-video generation framework that creates real-time cine-Magnetic Resonance Imaging (RT/cine-MRI) visualizations of vocal tract motion from speech signals, using temporal alignment preprocessing and a modified stable diffusion model with structural and temporal blocks to capture movement dynamics. 
-  authors: P. Perez-Toro et al.
-  link:
-    url: https://arxiv.org/pdf/2503.12102
-    display: arXiv (2026)
   highlight: 1
 
 - title: "Cross-Modal Fine-Tuning of 3D Convolutional Foundation Models for ADHD Classification with Low-Rank Adaptation"
