@@ -3,7 +3,7 @@
   description: This paper introduces an audio-to-video generation framework that creates real-time cine-Magnetic Resonance Imaging (RT/cine-MRI) visualizations of vocal tract motion from speech signals, using temporal alignment preprocessing and a modified stable diffusion model with structural and temporal blocks to capture movement dynamics. 
   authors: P. Perez-Toro et al.
   link:
-    url: https://arxiv.org/abs/2503.12102
+    url: https://www.sciencedirect.com/science/article/pii/S1361841526001210
     display: Medical Image Analysis (2026) (IF=11.8)
   highlight: 1
 
