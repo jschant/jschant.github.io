@@ -25,7 +25,7 @@ Dr. Jonghye Woo is an Associate Professor in the Department of Radiology at Harv
 - Associate Editor, IEEE Trans on Biomedical Engineering (TBME)
 - Associate Editor, IEEE Journal of Biomedical and Health Informatics (JBHI)
 - Editorial Board Member, npj Digital Medicine
-- Guest Editor, SPIE Journal of Medical Imaging: Foundation, Multimodal, and World Models for Medical Imaging
+- Guest Editor, SPIE Journal of Medical Imaging Special Issue on Foundation, Multimodal, and World Models for Medical Imaging
 - Editorial Board Member, APSIPA Transactions on Signal and Information Processing
 - Guest Editor, Themed Series of APSIPA Transactions on Signal and Information Processing on “AI for Medical Image Analysis”
 - Guest Editor, Themed Series of APSIPA Transactions on Signal and Information Processing on "AI in healthcare"
