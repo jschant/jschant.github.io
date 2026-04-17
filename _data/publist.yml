@@ -8,7 +8,7 @@
   highlight: 1
 
 - title: "Multi-Atlas-Based Segmentation of Pediatric Vocal Tract Anatomy in Dynamic MRI"
-  image: media_2026.png
+  image: jslhr_2026.png
   description: This study compared four multi-atlas segmentation methods for dynamic speech MRI and found that Corrective Learning achieved the best performance for segmenting the tongue, velum, and adenoid. Its accuracy improved as more temporal frames were used, supporting its potential to replace manual segmentation in small, specialized pediatric datasets.
   authors: H. Kang et al.
   link:
