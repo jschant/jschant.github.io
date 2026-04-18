@@ -46,7 +46,7 @@
 - title: "Interpretable and backpropagation-free Green Learning for efficient multi-task echocardiographic segmentation and classification"
   image: apsipa_2026.png
   description: This paper proposes a backpropagation-free Multi-Task Green Learning framework that combines an unsupervised VoxelHop encoder with an XGBoost classifier to perform simultaneous LV segmentation and LVEF classification from echocardiography.
-  authors: J. Kao et al.
+  authors: J.-P. Kao et al.
   link:
     url: https://arxiv.org/abs/2601.19743
     display: APSIPA Trans on Signal and Information Processing (2026)
