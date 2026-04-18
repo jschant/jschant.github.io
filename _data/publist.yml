@@ -13,8 +13,18 @@
   authors: H. Kang et al.
   link:
     url: https://pubs.asha.org/jslhr/aboutjslhr
-    display: Journal of Speech, Language, and Hearing Research (JSLHR)
+    display: Journal of Speech, Language, and Hearing Research ((2026))
   highlight: 1
+
+- title: "Improving Rare Disease Diagnosis via Contrastive Metric Learning for HPO Phenotype Extraction"
+  image: embc_2026_1.png
+  description: This work improves PhenoBrain’s rare-disease diagnosis pipeline by replacing dictionary-based HPO linking with a Twin ALBERT deep metric learning model that learns clinically meaningful similarity between phenotype phrases and HPO terms. The new PubMedBERT-based approach substantially improved phenotype extraction performance over the original method (F1 88.03 vs. 68.30), reducing false positives while maintaining high recall.
+  authors: R. Ananth et al.
+  link:
+    url: https://embc.embs.org/2026/
+    display: IEEE EMBC (2026)
+  highlight: 1
+
 
 - title: "A Speech-to-Video Synthesis Approach Using Spatio-Temporal Diffusion for Vocal Tract MRI"
   image: media_2026.png
