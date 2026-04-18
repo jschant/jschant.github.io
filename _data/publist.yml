@@ -25,7 +25,7 @@
     display: IEEE EMBC (2026)
   highlight: 1
 
-- title: "  Entity-Preserving Biomedical Abstract Augmentation via Constraint-Driven Distillation"
+- title: "Entity-Preserving Biomedical Abstract Augmentation via Constraint-Driven Distillation"
   image: embc_2026_2.png
   description:  This work presents a constraint-driven distillation framework for biomedical abstract rewriting that fine-tunes gpt-oss-20b with LoRA on teacher-generated data while enforcing PubTator-derived lexical constraints to preserve key biomedical entities. The resulting model achieved over 99% retention of required terms and high semantic fidelity, substantially outperforming both the unconstrained fine-tuning baseline and the base model.
   authors: J.-P. Kao et al.
@@ -64,7 +64,7 @@
 - title: "Cross-Modal Fine-Tuning of 3D Convolutional Foundation Models for ADHD Classification with Low-Rank Adaptation"
   image: isbi_2026.png
   description: This study proposes a novel parameter-efficient transfer learning approach that adapts a 3D convolutional foundation model, originally pre-trained on CT images, to classify ADHD from diffusion MRI data using Low-Rank Adaptation (LoRA) by factorizing 3D kernels into 2D low-rank updates. The method achieved state-of-the-art performance (71.9% accuracy and 0.716 AUC) on ADHD classification while using 113× fewer trainable parameters than full fine-tuning, demonstrating the first successful cross-modal (CT-to-MRI) foundation model adaptation in neuroimaging.
-  authors: J.P. Kao et al.
+  authors: J.-P. Kao et al.
   link:
     url: https://arxiv.org/abs/2511.06163
     display: IEEE ISBI (2026)
