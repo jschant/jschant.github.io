@@ -25,15 +25,6 @@
     display: SPIE Journal of Medical Imaging (2026)
   highlight: 1
 
-- title: "Synthesizing Vocal Tract MRI Sequences with Phoneme-Aware Diffusion Models"
-  image: spie_journal.png
-  description: This study presents a diffusion-based framework that converts speech into dynamic vocal tract MRI sequences using phonemic-aware attention, improving phoneme-level articulatory accuracy and introducing SIPFS as a new evaluation metric. The method generated high-quality, robust MRI synthesis across unseen speakers and speech segments.
-  authors: P. Perez-Toro et al.
-  link:
-    url: https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging
-    display: SPIE Journal of Medical Imaging (2026)
-  highlight: 1
-
 - title: "Multi-Atlas-Based Segmentation of Pediatric Vocal Tract Anatomy in Dynamic MRI"
   image: jslhr_2026.png
   description: This study compared four multi-atlas segmentation methods for dynamic speech MRI and found that Corrective Learning achieved the best performance for segmenting the tongue, velum, and adenoid. Its accuracy improved as more temporal frames were used, supporting its potential to replace manual segmentation in small, specialized pediatric datasets.
