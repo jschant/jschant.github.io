@@ -1,8 +1,8 @@
 - title: "Speech-Guided Multimodal Learning for Vocal Tract Segmentation in Real-Time MRI"
   image: miccai_2026_2.png
   description: Vocal tract articulator segmentation in rtMRI is difficult because of low contrast, rapid motion, and limited resolution, and existing methods often ignore synchronized acoustic information or require audio at inference. We propose a training-only multimodal supervision framework that uses acoustic and phonological cues to improve image-only inference, achieving superior performance on 75-Speaker Annot-16 and USC-TIMIT while remaining clinically deployable.
-  link:
   authors: D. Liu et al.
+  link:
     url: https://conferences.miccai.org/2026/en/default.asp
     display: MICCAI (2026)-early accept
   highlight: 1
@@ -14,6 +14,15 @@
   link:
     url: https://conferences.miccai.org/2026/en/default.asp
     display: MICCAI (2026)-early accept
+  highlight: 1
+
+- title: "Synthesizing Vocal Tract MRI Sequences with Phoneme-Aware Diffusion Models"
+  image: spie_journal.png
+  description: This study presents a diffusion-based framework that converts speech into dynamic vocal tract MRI sequences using phonemic-aware attention, improving phoneme-level articulatory accuracy and introducing SIPFS as a new evaluation metric. The method generated high-quality, robust MRI synthesis across unseen speakers and speech segments.
+  authors: P. Perez-Toro et al.
+  link:
+    url: https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging
+    display: SPIE Journal of Medical Imaging (2026)
   highlight: 1
 
 - title: "Synthesizing Vocal Tract MRI Sequences with Phoneme-Aware Diffusion Models"
