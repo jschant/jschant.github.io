@@ -1,3 +1,21 @@
+- title: "Speech-Guided Multimodal Learning for Vocal Tract Segmentation in Real-Time MRI"
+  image: miccai_2026_2.png
+  description: Vocal tract articulator segmentation in rtMRI is difficult because of low contrast, rapid motion, and limited resolution, and existing methods often ignore synchronized acoustic information or require audio at inference. We propose a training-only multimodal supervision framework that uses acoustic and phonological cues to improve image-only inference, achieving superior performance on 75-Speaker Annot-16 and USC-TIMIT while remaining clinically deployable.
+  link:
+  authors: D. Liu et al.
+    url: https://conferences.miccai.org/2026/en/default.asp
+    display: MICCAI (2026)-early accept
+  highlight: 1
+
+- title: "Dynamic Sub-domain Modeling for Robust Medical Image Segmentation"
+  image: miccai_2026_1.png
+  description: Medical image segmentation often suffers from intra-domain distribution shifts caused by variations in acquisition, reconstruction, and anatomy, while existing methods typically overlook latent sub-domain structure or require fixed partitions and test-time updates. We propose an automatic prototype-conditioned expert framework that dynamically discovers latent sub-domains and enables parameter-free test-time adaptation, improving robustness and segmentation accuracy while preserving inference efficiency.
+  authors: K. Lee et al.
+  link:
+    url: https://conferences.miccai.org/2026/en/default.asp
+    display: MICCAI (2026)-early accept
+  highlight: 1
+
 - title: "Synthesizing Vocal Tract MRI Sequences with Phoneme-Aware Diffusion Models"
   image: spie_journal.png
   description: This study presents a diffusion-based framework that converts speech into dynamic vocal tract MRI sequences using phonemic-aware attention, improving phoneme-level articulatory accuracy and introducing SIPFS as a new evaluation metric. The method generated high-quality, robust MRI synthesis across unseen speakers and speech segments.
