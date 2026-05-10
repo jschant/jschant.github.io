@@ -1,3 +1,12 @@
+- title: "VocSegMRI: Multimodal Learning for Precise Vocal Tract Segmentation in Real-time MRI"
+  image: midl_2026.png
+  description: VocSegMRI is a multimodal rtMRI segmentation framework that combines video, audio, and phonological inputs through cross-attention fusion and contrastive learning to better align speech signals with articulatory anatomy. It improves segmentation accuracy on USC-75 and shows zero-shot generalization to USC-TIMIT, outperforming unimodal and multimodal baselines.
+  authors: D. Liu et al.
+  link:
+    url: https://2026.midl.io/
+    display: MIDL (2026)
+  highlight: 1
+
 - title: "Speech-Guided Multimodal Learning for Vocal Tract Segmentation in Real-Time MRI"
   image: miccai_2026_2.png
   description: This study presents a training-only multimodal supervision framework for vocal tract articulator segmentation in real-time MRI, where acoustic and phonological cues are used during training while only rtMRI images are required at inference. By converting phonological representations into spatial priors, aligning visual and acoustic encoders through cross-modal contrastive pretraining, and fusing representations with a cross-attention decoder, the method improves segmentation accuracy on 75-Speaker Annot-16 and USC-TIMIT while remaining clinically deployable.
@@ -15,7 +24,7 @@
     url: https://conferences.miccai.org/2026/en/default.asp
     display: MICCAI (2026)-early accept
   highlight: 1
-  
+
 - title: "Synthesizing Vocal Tract MRI Sequences with Phoneme-Aware Diffusion Models"
   image: spie_journal.png
   description: This study presents a diffusion-based framework that converts speech into dynamic vocal tract MRI sequences using phonemic-aware attention, improving phoneme-level articulatory accuracy and introducing SIPFS as a new evaluation metric. The method generated high-quality, robust MRI synthesis across unseen speakers and speech segments.
