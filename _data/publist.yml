@@ -1,3 +1,12 @@
+- title: "DSHARP: Deep Incompressible Motion Estimation with Sinusoidal-transformed Harmonic Phase for Tagged MRI"
+  image: tmi_2026.png
+  description: VocSegMRI is a multimodal rtMRI segmentation framework that combines video, audio, and phonological inputs through cross-attention fusion and contrastive learning to better align speech signals with articulatory anatomy. It improves segmentation accuracy on USC-75 and shows zero-shot generalization to USC-TIMIT, outperforming unimodal and multimodal baselines.
+  authors: J. Bian et al.
+  link:
+    url: https://ieeetmi.org/
+    display: IEEE Trans on Medical Imaging (2026)-(IF=9.8)
+  highlight: 1
+
 - title: "VocSegMRI: Multimodal Learning for Precise Vocal Tract Segmentation in Real-time MRI"
   image: midl_2026.png
   description: VocSegMRI is a multimodal rtMRI segmentation framework that combines video, audio, and phonological inputs through cross-attention fusion and contrastive learning to better align speech signals with articulatory anatomy. It improves segmentation accuracy on USC-75 and shows zero-shot generalization to USC-TIMIT, outperforming unimodal and multimodal baselines.
