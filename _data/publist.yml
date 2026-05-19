@@ -21,7 +21,7 @@
   description: This study presents a training-only multimodal supervision framework for vocal tract articulator segmentation in real-time MRI, where acoustic and phonological cues are used during training while only rtMRI images are required at inference. By converting phonological representations into spatial priors, aligning visual and acoustic encoders through cross-modal contrastive pretraining, and fusing representations with a cross-attention decoder, the method improves segmentation accuracy on 75-Speaker Annot-16 and USC-TIMIT while remaining clinically deployable.
   authors: D. Liu et al.
   link:
-    url: https://conferences.miccai.org/2026/en/default.asp
+    url: https://arxiv.org/pdf/2605.18466
     display: MICCAI (2026)-early accept
   highlight: 1
 
