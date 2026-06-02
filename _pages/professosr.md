@@ -10,7 +10,7 @@ permalink: /professor/
 
 
 ### Brief Biography
-Dr. Jonghye Woo is an Associate Professor in the Department of Radiology at Harvard Medical School and Massachusetts General Hospital in Boston. He received the B.S. degree from Seoul National University (SNU), Seoul, Korea, in 2005, and the M.S. and Ph.D. degrees from the University of Southern California (USC), Los Angeles, in 2007 and 2009, respectively, all in electrical engineering. He worked at Philips Research North America in Briarcliff Manor (now in Cambridge), as a Research Intern in 2009 and Cedars-Sinai Medical Center in Los Angeles, as a Research Associate in 2010. He was a postdoctoral researcher and later a faculty member at the University of Maryland and Johns Hopkins University in Baltimore from 2010 to 2014. His research interests include medical image analysis and machine learning. He received the USC Viterbi School of Engineering Best Dissertation Award, the NIH/NIDCD K99/R00 Pathway to Independence Award, and the Distinguished Investigator Award from the Academy of Radiology & Biomedical Imaging Research. He is currently an IEEE Senior Member and Life Member of SPIE.
+Dr. Jonghye Woo is an Associate Professor in the Department of Radiology at Harvard Medical School and Massachusetts General Brigham (MGB) in Boston. He received the B.S. degree from Seoul National University (SNU), Seoul, Korea, in 2005, and the M.S. and Ph.D. degrees from the University of Southern California (USC), Los Angeles, in 2007 and 2009, respectively, all in electrical engineering. He worked at Philips Research North America in Briarcliff Manor (now in Cambridge), as a Research Intern in 2009 and Cedars-Sinai Medical Center in Los Angeles, as a Research Associate in 2010. He was a postdoctoral researcher and later a faculty member at the University of Maryland and Johns Hopkins University in Baltimore from 2010 to 2014. His research interests include medical image analysis and machine learning. He received the USC Viterbi School of Engineering Best Dissertation Award, the NIH/NIDCD K99/R00 Pathway to Independence Award, and the Distinguished Investigator Award from the Academy of Radiology & Biomedical Imaging Research. He is currently an IEEE Senior Member and Life Member of SPIE.
 
 ### Current Academic Positions
 - Associate Professor, Department of Radiology, Harvard Medical School, 2022-Present
@@ -18,7 +18,7 @@ Dr. Jonghye Woo is an Associate Professor in the Department of Radiology at Harv
 - Associate member, The Broad Institute of MIT and Harvard, Cambridge, MA, 2023-Present
 - Full member, Cancer Data Sciences, Dana-Farber/Harvard Cancer Center, 2023-Present
 - Adjunct Professor, MGH Institute of Health Professions, Boston, MA, 2015-2018; 2021-Present
-- Investigator, MGH Center for Inflammation Imaging (previously known as Gordon Center for Medical Imaging), Massachusetts General Hospital, Boston, MA, 2014-Present
+- Investigator, MGH Center for Inflammation Imaging (previously known as Gordon Center for Medical Imaging), Massachusetts General Brigham, Boston, MA, 2014-Present
 
 ### Editorial role/Program Committee
 - Guest Associate Editor, IEEE Trans on Medical Imaging (TMI)
