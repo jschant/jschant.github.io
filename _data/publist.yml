@@ -1,3 +1,12 @@
+- title: "A Scoping Review of Traditional and Artificial Intelligence Methods in Malaria Diagnostics"
+  image: tmi_2026.png
+  description: Malaria remains a major global health burden, and as conventional diagnostics fall short, recent deep-learning advances show strong potential to expand access and reduce misdiagnosis through automatic parasite detection in blood smears; this review evaluates that translational potential and its practical implications for clinical practice.
+  authors: F. Xing, S. Lazarev, J. Woo
+  link:
+    url: https://ieeexplore.ieee.org/document/11520956/
+    display: npj Digital Medicine (2026) (IF=15.1)
+  highlight: 1
+
 - title: "DSHARP: Deep Incompressible Motion Estimation with Sinusoidal-transformed Harmonic Phase for Tagged MRI"
   image: tmi_2026.png
   description: To overcome the limitations of traditional tagged MRI analysis, this paper introduces DSHARP, an unsupervised deep learning framework that integrates the harmonic phase (HARP) approach to rapidly generate diffeomorphic and nearly incompressible motion fields. When evaluated on simulated phantoms and in vivo human tongue data, DSHARP demonstrated superior computational speed, tracking accuracy, and robustness to large deformations and tag fading compared to existing state-of-the-art methods.
