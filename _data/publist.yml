@@ -1,3 +1,12 @@
+- title: "Patient-Adaptive Modality Attention for Multimodal Brain Tumor Synthesis via Latent Diffusion"
+  image: DGM4MICCAI.png
+  description: DAMAN is a subject-specific multimodal latent diffusion framework that synthesizes high-fidelity brain tumors across MRI modalities, using disease-aware attention—quality-aware gating and voxel-level lesion-specific spatial attention over modality-specific 3D VQ-GAN latents—to adaptively fuse cross-modal features, plus a hard-inpainting loop that preserves background at each diffusion step. On the LUMIERE glioblastoma dataset, it achieves PSNR of 20.27 dB and SSIM of 0.919 on T1-post and a 100% valid generation rate, versus 50–56% for single-modal baselines.
+  authors: K. Park et al.
+  link:
+    url: https://dgm4miccai.github.io/
+    display: MICCAI Workshop (DGM4MICCAI) (2026)
+  highlight: 1
+
 - title: "A Scoping Review of Traditional and Artificial Intelligence Methods in Malaria Diagnostics"
   image: npj_2026.png
   description: Malaria remains a major global health burden, and as conventional diagnostics fall short, recent deep-learning advances show strong potential to expand access and reduce misdiagnosis through automatic parasite detection in blood smears; this review evaluates that translational potential and its practical implications for clinical practice.
