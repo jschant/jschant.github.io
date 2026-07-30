@@ -37,7 +37,8 @@ Dr. Jonghye Woo is an Associate Professor in the Department of Radiology at Harv
 - Area Chair, Poster Session Chair, and Program Committee, MICCAI, 2023-2024
 - Co-Chair, MICCAI Workshop on Time-Series Data Analytics and Learning, MICCAI, 2023
 - Session Chair and Program Committee, SPIE Medical Imaging: Image Processing, 2022-Present
-- IEEE ISBI Technical Program Committee (Reviewer), 2025-
+- IEEE ISBI Technical Program Committee (Reviewer), 2025-2026
+- IEEE EMBC Session co-chair, 2026
 
 ### Awards & Honors
 - Sadaoki Furui Prize Paper Award (Best Overview Paper; Senior Author), APSIPA, 2025
