@@ -13,7 +13,7 @@
   authors: F. Xing, S. Lazarev, J. Woo
   link:
     url: https://www.nature.com/articles/s41746-026-02880-3
-    display: npj Digital Medicine (2026) (IF=15.1)
+    display: npj Digital Medicine (2026) (IF=18)
   highlight: 1
 
 - title: "DSHARP: Deep Incompressible Motion Estimation with Sinusoidal-transformed Harmonic Phase for Tagged MRI"
@@ -139,7 +139,7 @@
   authors: Z. Li et al.
   link:
     url: https://www.nature.com/npjdigitalmed/
-    display: npj Digital Medicine (2026) (IF=15.1)
+    display: npj Digital Medicine (2026) (IF=18)
   highlight: 1
 
 - title: "Latent diffusion transformers for 3D head and neck tumor segmentation"
