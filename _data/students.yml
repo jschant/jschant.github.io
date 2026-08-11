@@ -36,6 +36,13 @@
   number_educ: 1
   education1: Data Science, Harvard University, USA
 
+- name: Luozhong Zhou
+  photo: future.png
+  info: MS Student
+  email: hkang14@mgb.org
+  number_educ: 1
+  education1: Data Science, Harvard University, USA
+
 - name: Sean Li
   photo: future.png
   info: Undergraduate Student
