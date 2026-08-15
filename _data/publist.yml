@@ -66,7 +66,7 @@
   description: This study compared four multi-atlas segmentation methods for dynamic speech MRI and found that Corrective Learning achieved the best performance for segmenting the tongue, velum, and adenoid. Its accuracy improved as more temporal frames were used, supporting its potential to replace manual segmentation in small, specialized pediatric datasets.
   authors: H. Kang et al.
   link:
-    url: https://pubs.asha.org/jslhr/aboutjslhr
+    url: https://pubs.asha.org/doi/10.1044/2026_JSLHR-25-00495
     display: Journal of Speech, Language, and Hearing Research (2026)
   highlight: 1
 
