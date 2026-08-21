@@ -43,17 +43,11 @@
   number_educ: 1
   education1: BS Student, Cornell University, NY, USA
 
-- name: Taejoon Park
+- name: Luozhong Zhou
   photo: future.png
   info: Undergraduate Student
   email: hkang14@mgb.org
   number_educ: 1
-  education1: BS Student, Carleton College, MN, USA
+  education1: Data Science, Harvard University, USA
 
-- name: Heonjae Lee
-  photo: future.png
-  info: Undergraduate Student
-  email: hkang14@mgb.org
-  number_educ: 1
-  education1: BS Student, DGIST, Korea
 
