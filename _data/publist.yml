@@ -667,6 +667,15 @@ Patients with Tongue Cancer Using MRI Data"
     display: SPIE Medical Imaging (2022)
   highlight: 1
 
+- title: "Analysis of Tongue Muscle Strain During Speech From Multimodal Magnetic Resonance Imaging"
+  image: jslhr_2022.png
+  description: This work presents a pipeline that combines deep-learning-based muscle fiber estimation from diffusion MRI with tagged-MRI motion tracking to compute strains along tongue muscle fiber directions during speech, revealing consistent muscle behaviors in healthy controls and irregular, more extension-dominated patterns in glossectomy patients that could inform treatment strategies for oral diseases.
+  authors: M. Shao et al.
+  link:
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9533681/
+    display: SPIE Medical Imaging (2022)
+  highlight: 1
+
 - title: "Structure-aware unsupervised tagged-to-cine MRI synthesis with self disentanglement"
   image: spie_2022_variability.png
   description: This work addresses structural inconsistencies in cycle-consistent GANs by learning a general structural feature extractor through input-output patch self-training that disentangles anatomical structures from imaging modalities. Validation on 3,744 cardiac MRI slices shows superior performance over competing unpaired image translation methods.
