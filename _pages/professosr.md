@@ -20,7 +20,9 @@ Dr. Jonghye Woo is an Associate Professor in the Department of Radiology at Harv
 - Adjunct Professor, MGH Institute of Health Professions, Boston, MA, 2015-2018; 2021-Present
 - Investigator, MGH Center for Inflammation Imaging (previously known as Gordon Center for Medical Imaging), Massachusetts General Brigham, Boston, MA, 2014-Present
 
-### Editorial role/Program Committee
+### Editorial role/Program Committee/Committee Service
+- Full Member, IEEE EMBS BIIP Technical Committee
+- Standing Committee, SM Degree in Data Science, Harvard University
 - Guest Associate Editor, IEEE Trans on Medical Imaging (TMI)
 - Associate Editor, IEEE Trans on Biomedical Engineering (TBME)
 - Associate Editor, IEEE Journal of Biomedical and Health Informatics (JBHI)
@@ -38,7 +40,7 @@ Dr. Jonghye Woo is an Associate Professor in the Department of Radiology at Harv
 - Co-Chair, MICCAI Workshop on Time-Series Data Analytics and Learning, MICCAI, 2023
 - Session Chair and Program Committee, SPIE Medical Imaging: Image Processing, 2023-Present
 - IEEE ISBI Technical Program Committee (Reviewer), 2025-2026
-- IEEE EMBC Session co-chair, 2026
+- IEEE EMBC Session Co-chair, 2026
 
 ### Awards & Honors
 - Sadaoki Furui Prize Paper Award (Best Overview Paper; Senior Author), APSIPA, 2025
