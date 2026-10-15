@@ -1,3 +1,12 @@
+- title: "LDiT3D: Head and Neck Tumor Segmentation Using a 3D Latent Diffusion Transformer Model"
+  image: tbme_2026.png
+  description: This work introduces LDiT3D, a novel 3D transformer-based diffusion model that automates head and neck tumor segmentation from PET/CT scans by performing efficient latent-space diffusion paired with a pixel-space segmentation loss. Experimental results demonstrate that LDiT3D outperforms traditional U-Net and transformer models in accuracy and balance, offering a promising tool to reduce clinical workloads.
+  authors: Y. Dong et al.
+  link:
+    url: https://dgm4miccai.github.io/
+    display: IEEE Trans on Biomedical Engineering (TBME) (2026)
+  highlight: 1
+
 - title: "Patient-Adaptive Modality Attention for Multimodal Brain Tumor Synthesis via Latent Diffusion"
   image: DGM4MICCAI.png
   description: DAMAN is a subject-specific multimodal latent diffusion framework that synthesizes high-fidelity brain tumors across MRI modalities, using disease-aware attention—quality-aware gating and voxel-level lesion-specific spatial attention over modality-specific 3D VQ-GAN latents—to adaptively fuse cross-modal features, plus a hard-inpainting loop that preserves background at each diffusion step. On the LUMIERE glioblastoma dataset, it achieves PSNR of 20.27 dB and SSIM of 0.919 on T1-post and a 100% valid generation rate, versus 50–56% for single-modal baselines.
