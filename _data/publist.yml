@@ -3,7 +3,7 @@
   description: This work introduces LDiT3D, a novel 3D transformer-based diffusion model that automates head and neck tumor segmentation from PET/CT scans by performing efficient latent-space diffusion paired with a pixel-space segmentation loss. Experimental results demonstrate that LDiT3D outperforms traditional U-Net and transformer models in accuracy and balance, offering a promising tool to reduce clinical workloads.
   authors: Y. Dong et al.
   link:
-    url: https://dgm4miccai.github.io/
+    url: https://ieeexplore.ieee.org/document/11739371
     display: IEEE Trans on Biomedical Engineering (TBME) (2026)
   highlight: 1
 
@@ -57,7 +57,7 @@
   description: This study presents an automatic segmentation framework that models latent sub-domains within the same medical imaging domain without requiring gradient-based test-time adaptation. The method dynamically discovers distributional modes using nonparametric prototypes, conditions specialized experts through a hypernetwork, and improves robustness and segmentation accuracy under intra-domain shifts while preserving efficient inference.
   authors: K. Lee et al.
   link:
-    url: https://conferences.miccai.org/2026/en/default.asp
+    url: https://papers.miccai.org/miccai-2026/paper/6534_paper.pdf
     display: MICCAI (2026)-early accept
   highlight: 1
 
