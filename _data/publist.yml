@@ -5,9 +5,6 @@
   link:
     url: https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics
     display: Computerized Medical Imaging and Graphics (CMIG) (2026)
-  link:
-    url: https://github.com/SSTDV-Project/HF-GAN
-    display: Code
   highlight: 1
 
 - title: "LDiT3D: Head and Neck Tumor Segmentation Using a 3D Latent Diffusion Transformer Model"
