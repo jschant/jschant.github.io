@@ -1,5 +1,5 @@
 - title: "Structured Feature Disentanglement for High-Fidelity Unified Brain MRI Synthesis"
-  image: tbme_2026.png
+  image: cmig_2026.png
   description: This work introduces LDiT3D, a novel 3D transformer-based diffusion model that automates head and neck tumor segmentation from PET/CT scans by performing efficient latent-space diffusion paired with a pixel-space segmentation loss. Experimental results demonstrate that LDiT3D outperforms traditional U-Net and transformer models in accuracy and balance, offering a promising tool to reduce clinical workloads.
   authors: J. Cho, J. Woo, J. Park
   link:
