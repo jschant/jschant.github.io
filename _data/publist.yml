@@ -1,6 +1,7 @@
 - title: "Evaluating Foundation Model Encoders and In-Domain Encoders for Multicenter Glioblastoma Survival Prediction"
   image: spie_2027_2.png
   description: Through a rigorous, leak-controlled multicenter benchmark evaluating 40 multimodal survival prediction configurations on IDH-wildtype glioblastoma cohorts, we show that foundation model encoders achieve performance comparable to purpose-built models and reveal that architectural gains are easily matched in magnitude by cohort definitions, evaluation protocols, and run-to-run variability.
+  authors: J. Wang et al.
   link:
     url: 
     display: SPIE Medical Imaging (2027)-Deep Dive
