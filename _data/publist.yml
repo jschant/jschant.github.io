@@ -1,3 +1,11 @@
+- title: "Evaluating Foundation Model Encoders and In-Domain Encoders for Multicenter Glioblastoma Survival Prediction"
+  image: spie_2027_2.png
+  description: Through a rigorous, leak-controlled multicenter benchmark evaluating 40 multimodal survival prediction configurations on IDH-wildtype glioblastoma cohorts, we show that foundation model encoders achieve performance comparable to purpose-built models and reveal that architectural gains are easily matched in magnitude by cohort definitions, evaluation protocols, and run-to-run variability.
+  link:
+    url: 
+    display: SPIE Medical Imaging (2027)-Deep Dive
+  highlight: 1
+
 - title: "Evaluating Cine and Tagged MRI-to-Speech Synthesis with Complementary Metrics and MRI-Free Controls"
   image: spie_2027_1.png
   description: This study demonstrates that absolute Corr2D metrics alone fail to prove MRI-driven acoustic recovery in speech synthesis from dynamic MRI, emphasizing the necessity of MRI-free baselines because simple cohort templates and static mean-spectrum controls matched or outperformed trained MRI configurations.
