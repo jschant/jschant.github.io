@@ -1,3 +1,12 @@
+- title: "Evaluating Cine and Tagged MRI-to-Speech Synthesis with Complementary Metrics and MRI-Free Controls"
+  image: spie_2027_1.png
+  description: This study demonstrates that absolute Corr2D metrics alone fail to prove MRI-driven acoustic recovery in speech synthesis from dynamic MRI, emphasizing the necessity of MRI-free baselines because simple cohort templates and static mean-spectrum controls matched or outperformed trained MRI configurations.
+  authors: K. Vrancic et al.
+  link:
+    url: 
+    display: SPIE Medical Imaging (2027)-Deep Dive
+  highlight: 1
+
 - title: "Structured Feature Disentanglement for High-Fidelity Unified Brain MRI Synthesis"
   image: cmig_2026.png
   description: This work proposes Hybrid-Fusion GAN (HF-GAN), a novel framework using structured feature disentanglement and a channel attention-based fusion module to synthesize missing MRI sequences, which successfully improves clinical diagnosis, data imputation, and downstream brain tumor segmentation.
