@@ -1,3 +1,11 @@
+- title: "Tabular Foundation Models for Teprotumumab Response Prediction in Thyroid Eye Disease: Frozen In-Context Learning versus Task-Specific Adaptation"
+  image: spie_2027_3.png
+  description: Evaluating tabular foundation models on predicting Thyroid Eye Disease treatment response using clinical and orbital CT features, this study demonstrates that task-specific adaptation provides no measurable advantage over frozen in-context learning.
+  link:
+    url: 
+    display: SPIE Medical Imaging (2027)
+  highlight: 1
+  
 - title: "Evaluating Foundation Model Encoders and In-Domain Encoders for Multicenter Glioblastoma Survival Prediction"
   image: spie_2027_2.png
   description: Through a rigorous, leak-controlled multicenter benchmark evaluating 40 multimodal survival prediction configurations on IDH-wildtype glioblastoma cohorts, we show that foundation model encoders achieve performance comparable to purpose-built models and reveal that architectural gains are easily matched in magnitude by cohort definitions, evaluation protocols, and run-to-run variability.
