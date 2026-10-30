@@ -1,3 +1,12 @@
+- title: "Few-Shot Learning for Organ Relabeling to Improve TG-263 Compliance"
+  image: spie_2027_4.png
+  description: To address the challenge of relabeling inconsistently named radiotherapy structures with limited curated data, this study successfully developed a few-shot learning (FSL) image classification framework that achieved high accuracy (>97%) across multi-cohort head and neck datasets while overcoming domain shift.
+  authors: U. Ryu et al.
+  link:
+    url: 
+    display: SPIE Medical Imaging (2027)
+  highlight: 1
+
 - title: "Tabular Foundation Models for Teprotumumab Response Prediction in Thyroid Eye Disease: Frozen In-Context Learning versus Task-Specific Adaptation"
   image: spie_2027_3.png
   description: Evaluating tabular foundation models on predicting Thyroid Eye Disease treatment response using clinical and orbital CT features, this study demonstrates that task-specific adaptation provides no measurable advantage over frozen in-context learning.
