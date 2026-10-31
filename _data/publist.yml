@@ -1,3 +1,12 @@
+- title: "Tuning a CT foundation model for whole-body FDG PET/CT lesion segmentation"
+  image: spie_2027_6.png
+  description: By introducing an asynchronous bi-branch (ABB) tuning framework that isolates modality-specific low-level adaptation while leveraging pretrained CT foundation model weights, this study efficiently achieves superior whole-body lesion segmentation on PET/CT using only 100 downstream training scans.
+  authors: A. Yang et al.
+  link:
+    url: 
+    display: SPIE Medical Imaging (2027)
+  highlight: 1
+
 - title: "Adaptive Normative Connectivity Priors for Longitudinal Tau PET Forecasting with Multi-Relation Graph Neural Networks"
   image: spie_2027_5.png
   description: Using normative connectomes and spatial distance as adaptive priors instead of patient-specific functional or diffusion MRI, the proposed graph neural network framework accurately forecasts longitudinal tau PET progression in Alzheimer’s disease.
@@ -48,7 +57,7 @@
   description: This work proposes Hybrid-Fusion GAN (HF-GAN), a novel framework using structured feature disentanglement and a channel attention-based fusion module to synthesize missing MRI sequences, which successfully improves clinical diagnosis, data imputation, and downstream brain tumor segmentation.
   authors: J. Cho, J. Woo, J. Park
   link:
-    url: https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0895611126001412
     display: Computerized Medical Imaging and Graphics (CMIG) (2026)
   highlight: 1
 
