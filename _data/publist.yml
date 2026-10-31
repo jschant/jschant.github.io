@@ -1,3 +1,12 @@
+- title: "Adaptive Normative Connectivity Priors for Longitudinal Tau PET Forecasting with Multi-Relation Graph Neural Networks"
+  image: spie_2027_5.png
+  description: Using normative connectomes and spatial distance as adaptive priors instead of patient-specific functional or diffusion MRI, the proposed graph neural network framework accurately forecasts longitudinal tau PET progression in Alzheimer’s disease.
+  authors: Q. Zhang et al.
+  link:
+    url: 
+    display: SPIE Medical Imaging (2027)
+  highlight: 1
+
 - title: "Few-Shot Learning for Organ Relabeling to Improve TG-263 Compliance"
   image: spie_2027_4.png
   description: To address the challenge of relabeling inconsistently named radiotherapy structures with limited curated data, this study successfully developed a few-shot learning (FSL) image classification framework that achieved high accuracy (>97%) across multi-cohort head and neck datasets while overcoming domain shift.
